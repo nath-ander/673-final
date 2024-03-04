@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\N_P_H2O_Loss</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\N_P_H2O_Loss" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\N_P_H2O_Loss" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Agriculture</themekey>
+				<themekey>Biophysical</themekey>
+				<themekey>Drivers of Change - Ecosystem Services</themekey>
+				<themekey>Ecosystem</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Food</themekey>
+				<themekey>Ground Water</themekey>
+				<themekey>Land</themekey>
+				<themekey>Management</themekey>
+				<themekey>Modeling</themekey>
+				<themekey>Quality</themekey>
+				<themekey>Soils</themekey>
+				<themekey>Supply of Ecosystem Services</themekey>
+				<themekey>Surface Water</themekey>
+				<themekey>Sustainability</themekey>
+				<themekey>Water</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - 2002 Edge-of-Field Simulated Nitrogen, Phosphorus and Water Quantity Loss by 12-digit HUC for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20160819</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Publication date</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>20020101</begdate>
+					<enddate>20021231</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None.</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset contains annual (2002) simulated estimations of edge-of-field agricultural nitrogen (N) and phosphorus (P) lost in surface runoff, subsurface flow (tile and non-tile) and percolate, N and P attached to eroding soil (sediment loss) and associated surface, subsurface and vertical water flow and surface soil erosion. The dataset was generated using Weather Research Forecast (WRF) modeled weather, Community Multi-Scale Air Quality (CMAQ) model deposition and the Environmental Policy Integrated Climate (EPIC) model as implemented under the Fertilizer Emission Scenario Tool for CMAQ (FEST-C), all run for 12-km rectangular grids across the continental US. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>These data provide a reference simulation database for agricultural nutrient losses. It represents environmental conditions prior to significant expansion of U.S. biofuel production or implementation of U.S. EPA Clean Air Act revised National Ambient Air Quality Standards (NAAQS) for NOx and SOx. It provides information to improve our understanding of agricultural nutrient sources. It is a first step towards developing innovative solutions to complex environmental challenges and promoting the attainment and sustainable maintenance of nitrogen and phosphorus levels in our environment that are healthful for both humans and ecosystems.</purpose>
+			<supplinf>The CMAQ modeling system relies on first principles to the extent possible, and the best available science underlies the modeling algorithms. Still, the chemistry and physics of the atmosphere are very complicated and there are uncertainties in the model representations that result in uncertainties in the predicted concentrations and deposition fluxes. There are also uncertainties in the model inputs including the emissions, meteorology, and land use. Emissions are the best available as part of the National Emissions Inventory (NEI), yet emission estimates are believed to be an important source of uncertainty. Uncertainties in precipitation amount and location are minimized by the corrections made in the post-processing of the data. The output from the model was first post-processed to correct for errors in the wet deposition due to precipitation errors using PRISM data and then a second correction to adjust for bias in the rainwater (or wet) concentrations using NADP data. The data have been summarized based on HUC_12s, but actual atmospheric deposition will vary within the HUC_12.</supplinf>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://www.epa.gov/geospatial/geospatial-policies-and-standards</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20160901</procdate>
+				<procdesc>Locate CMAQ nitrogen deposition and modeled meteorology for 2002, 12km CMAQ US1 Domain</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160822</procdate>
+				<procdesc>FEST-C1.2 interface guided processing complete</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160909</procdate>
+				<procdesc>Gridded annual data summarized to 12-digit HUCs</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20161027</metd>
+		<metfrd>20201027</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>N_P_H2O_Loss</enttypl>
+				<enttypd>2002 Simulated Edge-of-Field nutrient and water losses by 12-digit HUC</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>Ag_N_Runoff</attrlabl>
+				<attrdef>Dissolved agricultural N removed in surface runoff (metric ton N per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>253.21</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_N_NonTile_SSF</attrlabl>
+				<attrdef>Dissolved agricultural N removed in non-tile drain subsurface (lateral) flow (metric ton N per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>996.10</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_N_Tile_SSF</attrlabl>
+				<attrdef>Dissolved agricultural N removed in tile drain subsurface (lateral) flow (metric ton N per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>994.96</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_N_Erosion</attrlabl>
+				<attrdef>Agricultural N attached to eroding surface soil (metric ton N per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>823.22</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_N_Leachate</attrlabl>
+				<attrdef>Dissolved agricultural N leachate, i.e. N removed in percolate (metric ton N per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>483.34</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_P_Runoff</attrlabl>
+				<attrdef>Dissolved agricultural P removed in surface runoff (metric ton P per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>124.69</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_P_Erosion</attrlabl>
+				<attrdef>Agricultural P attached to eroding surface soil (metric ton P per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>447.78</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_P_Tile_SSF</attrlabl>
+				<attrdef>Dissolved agricultural P removed in tile drain sub-surface (lateral) flow (metric ton P per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1013.57</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_P_Leachate</attrlabl>
+				<attrdef>Dissolved agricultural P leachate; P removed in percolate (metric ton P per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1460.28</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_Tile_SSF</attrlabl>
+				<attrdef>Subsurface (lateral) water flow through agricultural tile drainage systems (mm per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1514.64</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_NonTile_SSF</attrlabl>
+				<attrdef>Non-tile drainage system subsurface (lateral) water flow from agricultural lands (mm per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1515.66</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_Percolation</attrlabl>
+				<attrdef>Percolation (vertical loss) from agricultural lands (mm per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1441.73</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_Runoff</attrlabl>
+				<attrdef>Surface runoff from agricultural land (mm per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1698.28</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Ag_Erosion</attrlabl>
+				<attrdef>Surface sediment erosion from agricultural lands (metric ton soil per HUC-12)</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1388.88</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>The Community Multiscale Air Quality (CMAQ) modeling system was run for the CONUS domain using a 12 km grid size and a Lambert Conformal projection assuming a spherical earth with radius 6370.0 km. The following model options and inputs were used:
+* Chemical Transport Model version is CMAQ v5.0.2 with bi-directional NH3 air-surface exchange using Massad formulation, CB05TUCL chemical mechanism, and aero6 aerosol module
+* CMAQ v5.0.2 lightning NOx adjusted to lightning strike data
+* GeosCHEM v 8-03-02 model created boundary conditions with hourly values from 2011 simulation using Geos5 meteorology
+* EPIC chemical fertilizer application schedule that is year-specific with chemical specification of form applied.
+* New confined animal feeding operations (CAFO) resistance and thermodynamics-based diurnal profile calculation for NH3 emissions
+* Biogenic Emissions Landuse Database, version 4 (BELD4) crop distributions in EPIC and CMAQ, and biogenic emissions
+* Anthropogenic emissions are from the 2011ed data set
+* Weather Research Forecast model, version 3.4 (WRF v3.4) meteorology simulated for 2011 with 2006 NLCD land cover data and using version 2 four-dimensional data assimilation with no nudging in the planetary boundary layer and based on blended 3-hourly reanalysis fields (combination of 6-hour (Meteorological Assimilation Data Ingest System) MADIS data and intermediate North American Mesoscale Model (NAM) 3-hour forecast) organized into 12km NAM Data Assimilation System (NDAS) fields up to 50 hPa, 
+* WRF v3.4 with Kain-Fritsch Ma and Tan (2009) trigger; with NLCD woody wetlands land use category recognized (wetlands-100); with Pleim-Xiu land-surface model.
+* WRF post-processing to create inputs for CMAQ was done with the Meteorology-Chemistry Input Processor (MCIP) v4.1.3. There are 35 vertical layers from the surface to the top of the free troposphere with layer 1 nominally 19m tall.  
+* Model run was performed in May 2014.
+
+The gridded data were then post-processed using R scripts to produce a comma-separated value (CSV) file. The wet deposition was adjusted by PRISM precipitation and by a bias adjustment field. The precipitation adjustment is based on increasing/decreasing the modeled wet deposition based on the bias in the modeled precipitation (bias=PRISM precipitation regridsed to 12km x 12km CMAQ grid/modeled precipitation). The bias field is based on regionally smoothing the bias at NADP sites by averaging the bias across all sites within 500km of a given monitor (bias = observed value/model value). These new averaged bias values at each NADP site are then kriged across space to all of the CMAQ grid cells to produce a smooth spatial map of a regional bias correction field for the CMAQ wet deposition predictions. The averaging and kriging procedures are done on the log scale and then back-transformed to the original scale. The dry deposition is added, without adjustment, to the adjusted wet deposition to calculate total deposition.
+
+The CSV files were imported into ArcGIS and the deposition for each 12-digit HUC (NHDPlusV2 Watershed Boundary Dataset) was calculated using area weighting.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<Esri>
+		<PublishedDocID>{00cafb6e-770d-4afa-9ed5-de95a831e0d8}</PublishedDocID>
+	</Esri>
+  <idinfo>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EPA GIS Keyword Thesaurus</themekt>
+        <themekey>Ecosystem</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnviroAtlas</themekt>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Alabama</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>California</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>United States</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington</placekey>
+        <placekey>Washington DC</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+      </place>
+      <theme>
+        <themekt>User</themekt>
+        <themekey>Agriculture</themekey>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+        <themekey>Health</themekey>
+        <themekey>Human</themekey>
+        <themekey>Management</themekey>
+        <themekey>Quality</themekey>
+        <themekey>Society</themekey>
+      </theme>
+    </keywords>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Environmental Protection Agency (US EPA)</origin>
+        <title>EnviroAtlas - Availability of Local Food by Census Block Group for the Conterminous United States</title>
+        <pubinfo>
+          <publish>U.S. EPA Office of Research and Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+          <pubplace>Research Triangle Park, NC</pubplace>
+        </pubinfo>
+        <pubdate>20181023</pubdate>
+        <onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS</onlink>
+        <onlink>https://enviroatlas.epa.gov/arcgis/rest/services</onlink>
+        <onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+        <onlink>https://www.epa.gov/enviroatlas</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>Publication date</current>
+      <timeinfo>
+        <rngdates>
+          <begdate>20160520</begdate>
+          <enddate>20180720</enddate>
+        </rngdates>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-128.02839229</westbc>
+        <eastbc>-65.20336449</eastbc>
+        <northbc>51.6773602</northbc>
+        <southbc>22.7348894</southbc>
+      </bounding>
+    </spdom>
+    <accconst>None</accconst>
+    <useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+    <descript>
+      <abstract>This EnviroAtlas dataset contains a count of the number of local farmers markets within each census block group (CBG) based on their location given within the USDA National Farmers Market Directory (https://www.ams.usda.gov/local-food-directories/farmersmarkets). This data has been processed from the original directory to remove duplicate locations, as well as a small subsample (25 markets) were corrected by hand in order avoid duplication across block group boundaries. This dataset is contemporary as of 5/20/2016, and downloaded from the USDA Agricultural Marketing Service (AMS) website.
+This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+      <purpose>The purpose of this EnviroAtlas layer is to tabulate the availability of local Farmers Markets within a CBG. Farmers markets often fill a critical role in providing community access to fresh, local healthy food. According to the US Department of Agriculture (USDA), "A lack of access to fresh, healthy foods can contribute to poor diets and higher levels of obesity and other diet-related diseases." Overweight individuals may experience higher rates of heart disease, diabetes, and other chronic conditions (https://www.usda.gov/documents/7-Healthyfoodaccess.pdf). Barriers to healthy food access can include income, distance to sources of healthy food -- such as supermarkets, and lack of transportation. USDA's Economic Research Service (ERS) estimated in 2017 that approximately 19 million Americans live in low-income census tracts that are more than one mile from a supermarket for urban areas, or more than 10 miles from a supermarket for rural areas [Rhone, Alana, Ver Ploeg, Michele, Dicken, Chris, Williams, Ryan, and Breneman, Vince. Low-Income and Low-Supermarket-Access Census Tracts, 2010-2015, EIB-165, U.S. Department of Agriculture, Economic Research Service, January 2017 (https://www.ers.usda.gov/publications/pub-details/?pubid=82100)]. The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+      <supplinf>Quality checks and corrections were performed on the original directory data to remove duplicate entries. In addition, 25 out of the final 9348 markets were corrected by hand to avoid having them fall directly on block group borders and thus be double-counted.</supplinf>
+    </descript>
+    <secinfo>
+      <secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+      <secclass>public</secclass>
+      <sechandl>Standard Technical Controls</sechandl>
+    </secinfo>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntperp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <logic>Tests for integrity have not been performed.</logic>
+    <complete>Features represented have not been tested for completeness</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at http://epa.gov/geospatial/policies.html</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdate>20160520</procdate>
+        <procdesc>Downloaded Local Food/Farmers Market data on 5/20/2016 from USDA Agricultural Marketing Service (AMS) website (https://apps.ams.usda.gov/FarmersMarketsExport/ExcelExport.aspx) as a .csv file.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20161210</procdate>
+        <procdesc>Imported into ArcMap as shapefile, reprojected to Albers Equal Area Conic.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20161210</procdate>
+        <procdesc>Clipped Data to CONUS boundary shapefile.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20161215</procdate>
+        <procdesc>Removed duplicate entries where x-y coordinates were the same.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20170105</procdate>
+        <procdesc>Manually corrected locations using Google maps base map where location did not match listed address. If location could not be verified or otherwise determined by auxiliary information, but did not have listed address, points were removed.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20170205</procdate>
+        <procdesc>Performed random sample QAQC for 500 data points.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180315</procdate>
+        <procdesc>Performed spatial join by census block group, compared join entries to total number of remaining farmers markets.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180315</procdate>
+        <procdesc>Manually adjusted point locations in instances where points fell along Census block group boundaries (and were being double counted).</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180719</procdate>
+        <procdesc>Rejoined corrected points to Census block group shapefiles, exported results as .dbf.</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <planar>
+        <planci>
+          <plance>coordinate pair</plance>
+          <plandu>meters</plandu>
+          <coordrep>
+            <absres>0.000001</absres>
+            <ordres>0.000001</ordres>
+          </coordrep>
+        </planci>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.500000</stdparll>
+            <stdparll>45.500000</stdparll>
+            <longcm>-96.000000</longcm>
+            <latprjo>23.000000</latprjo>
+            <feast>0.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </albers>
+        </mapproj>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metd>20181024</metd>
+    <metfrd>20221024</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </metc>
+  </metainfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>FarmersMarkets_bgrp</enttypl>
+        <enttypd>Count of Available Farmers Markets by Census Block Group</enttypd>
+        <enttypds>US EPA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>bgrp</attrlabl>
+        <attrdef>Census block group identifier; a concatenation of 2010 Census state Federal Information Processing Standards (FIPS) code, county FIPS code, census tract code, and block group number</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2), INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4) and the tract code that appears in TRACTCE10 and the census block group number that appears in BLKGRPCE10</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FarmersMarkets_bgrp</attrlabl>
+        <attrdef>The number of farmers markets within the Census block group.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>4</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+      <eaover>Local food (farmer's market) data from the USDA Agricultural Marketing Service (https://www.ams.usda.gov/services/local-regional/food-directories) were used in the analysis to determine the number of farmer's markets located within each census block group. The community access to local food was evaluated based on availability and accessibility of farmer's markets. The availability of local food for each census block group was determined by creating a spatial join with the farmers market locations using the geographic information system, ESRI's ArcGIS.
+	  </eaover>
+    </overview>
+  </eainfo>
+</metadata>

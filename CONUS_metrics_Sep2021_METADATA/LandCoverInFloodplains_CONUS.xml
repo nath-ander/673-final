@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<Esri>
+		<PublishedDocID>{5a535ea3-0e87-4331-b083-906954bfae16}</PublishedDocID>
+	</Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+			<theme>
+				<themekt>User</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Land Cover</themekey>
+				<themekey>Surface Water</themekey>
+				<themekey>Water</themekey>
+			</theme>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - 2016 Floodplain Land Cover Proportions for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20200427</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2017_metrics/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2016</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset represents the percentage of land area in estimated floodplains that is classified as natural, forest, shrubland, wetland, developed, low intensity developed, medium intensity developed, high intensity developed, agriculture, pasture, cropland, and rangeland land cover for each 12-digit hydrologic unit code (HUC) in the conterminous United States. Land cover is defined using the EnviroAtlas hybrid Cropland Data Layer (CDL) - 2016 National Land Cover Dataset (NLCD). Floodplains were defined using the EnviroAtlas FEMA_RF_Blend dataset dated 3/25/2019.
+
+This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>This dataset is useful for evaluating the relative contribution of various land cover to ecosystem goods and services within available floodplains including natural, managed, and developed land cover. The purpose of this dataset is to provide comparative metrics for available floodplain area within a watershed with an emphasis on floodplain management. The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://epa.gov/geospatial/policies.html</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20191029</procdate>
+				<procdesc>Obtained the EnviroAtlas CDL NLCD 2016 raster (cdlnlcd2016_EA.tif), a hybrid of the 2016 NLCD and CDL developed for use in EnviroAtlas metrics (https://www.epa.gov/enviroatlas/forms/enviroatlas-data-download).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20150820</procdate>
+				<procdesc>Obtained the NHDPlusV2 Watershed Boundary Dataset (WBD) Snapshot, EnviroAtlas version (https://www.epa.gov/enviroatlas/forms/enviroatlas-data-download).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20190404</procdate>
+				<procdesc>Obtained the EnviroAtlas Estimated Floodplain FEMA Blend - CONUS raster (FEMA_RF_Blend.tif) (https://www.epa.gov/enviroatlas/forms/enviroatlas-data-download).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20191105</procdate>
+				<procdesc>Created CDL_NLCD_FEMABlend_FLDPLN_2016 raster by setting areas in the EnviroAtlas Estimated Floodplain FEMA Blend - CONUS raster that equaled 0 (non-floodplain) to NODATA and replacing the remaining cell values with the corresponding cell values of the CDL NLCD 2016 raster.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20200204</procdate>
+				<procdesc>Metric calculations were done using the Land Cover Proportions tool in the Landscape Characteristics toolset of the ATtILA for ArcGIS toolbox (ATtILA 10_0.tbx, 5/26/2016 version) in ArcGIS. Calculated metrics for the following land cover classes: natural, forest, shrubland, wetland, developed, developed:low intensity, developed:medium intensity, developed:high intensity, agriculture, agriculture:pasture, agriculture:cropland, and rangeland. Used NHDPlusV2_WBDSnapshot_EnviroAtlas_CONUS as the reporting unit feature, and CDL_NLCD_FEMABlend_FLDPLN_2016 as the land cover grid. Used a user-defined land cover scheme for the Floodplain Hybrid 2016 ICELAND dataset. ICELAND coding schemes include "ice and snow" land covers in the effective area (i.e., land area) calculations. The QA fields option was selected to retain Percentage Overlap, Effective Area, and Excluded Area calculations.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20200206</procdate>
+				<procdesc>Joined the output table, FPBlend_LCP2016 to the attribute table for NHDPlusV2_WBDSnapshot_EnviroAtlas_CONUS using the shared HUC_12 field.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20200206</procdate>
+				<procdesc>Exported the joined table to generate a table for all 12-digit HUCs including those without any floodplain data. Output table was: LCP2016_FLDPLN_CONUS. </procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20200206</procdate>
+				<procdesc>Created a new double field in the LCP2016_FLDPLN_CONUS table named, p_fp. Performed a field calculation on that field to represent the percentage of the HUC that is classified as LAND and is in the floodplain. The expression used was: ([LCP_EFFA] / [Shape_Area] *100)</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20200206</procdate>
+				<procdesc>Used Alter Field to change the output field names for the following fields: changed LCP_EFFA to FP_M2LAND, and LCP_EXCA to FP_M2WATER.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20200206</procdate>
+				<procdesc>Selected all records in the table where p_fp IS NULL: n=407. Set the values for fp_m2land, fp_m2water, and p_fp to '0' for the selected records.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20200515</procdate>
+				<procdesc>Renamed fields using ArcGIS Table to Table to match names used in earlier versions of this dataset.</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20200515</metd>
+		<metfrd>20240515</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>LandCoverInFloodplains_CONUS_20200428</enttypl>
+				<enttypd>Percentage of the land area in estimated floodplains in 12-digit hydrologic units classified as various land cover super classes. NULL values indicate that no floodplain area was found within the hydrologic unit.</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_N_INDEX</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as natural (63, 64, 87, 131, 141, 142, 143, 152, 171, 190, 195). NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PFOR</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as forest (63, 141, 142, 143). NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PSHRUB</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as shrubland (64, 152).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PWETL</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as wetland (87, 190, 195).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PDEV</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as developed (82, 121, 122, 123, 124).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PDEVL</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as developed - low intensity (122).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PDEVM</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as developed - medium intensity (123).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>64.99076</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PDEVH</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as developed - high intensity (124).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>51.93241</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PAG</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as agriculture (1-6, 10-14, 21-39, 41-51, 52-61, 66-72, 74-77, 92, 181-182, 204-214, 216-227, 229-250, 254).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PAGP</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as agriculture - pasture (36, 37, 58, 60, 181, 224).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PAGC</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as agriculture - cropland (1-6, 10-14, 21-35, 38, 39, 41-51, 52-57, 59, 61, 66-72, 74-77, 182, 204-214, 216-223, 225-227, 229-250, 254).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_PRNGL</attrlabl>
+				<attrdef>Percentage of land area in estimated floodplains in 12-digit hydrologic units classified as rangeland (64, 152, 171).  NULL values indicate that no floodplain area was found within the hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_FP</attrlabl>
+				<attrdef>Percentage of 12-digit hydrologic units classified as land within the estimated floodplain.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_M2LAND</attrlabl>
+				<attrdef>Area in square meters of estimated floodplain classified as land within the 12-digit hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FP_M2WATER</attrlabl>
+				<attrdef>Area in square meters of estimated floodplain classified as water within the 12-digit hydrologic unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>The metric was generated using the ATtILA tool (https://www.epa.gov/enviroatlas/attila-toolbox), an ArcGIS tool for calculating commonly used landscape metrics. The land cover input is the EnviroAtlas 2016 CDL-NLCD, a raster dataset that is a hybrid of the 2016 NLCD (www.mrlc.gov/) and the 2016 CDL (https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php). Floodplains were as defined by the EnviroAtlas Estimated Floodplain raster, FEMA_RF_Blend.tif, dated 3/25/2019. For more information on the metric calculation, please see the ATtILA User's Manual included with the toolbox. A comprehensive list of metric creation steps is included in the Processing Steps.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

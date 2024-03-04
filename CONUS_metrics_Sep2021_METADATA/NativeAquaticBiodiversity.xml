@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<Esri>
+		<PublishedDocID>{63eab210-e5bc-4e7c-bb6d-15dfae09b2ec}</PublishedDocID>
+	</Esri>
+  <idinfo>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EPA GIS Keyword Thesaurus</themekt>
+        <themekey>Ecosystem</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnviroAtlas</themekt>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Alabama</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>California</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>United States</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington</placekey>
+        <placekey>Washington DC</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+      </place>
+      <theme>
+        <themekt>User</themekt>
+        <themekey>12-digit HUCs</themekey>
+        <themekey>Biodiversity</themekey>
+        <themekey>Conservation</themekey>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>Endangered</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+        <themekey>Imperiled</themekey>
+        <themekey>Surface Water</themekey>
+        <themekey>Threatened</themekey>
+      </theme>
+    </keywords>
+    <citation>
+      <citeinfo>
+        <origin>US Environmental Protection Agency (US EPA)</origin>
+        <title>EnviroAtlas - Native Freshwater Aquatic Biodiversity by 12-digit HUC for the Conterminous United States</title>
+        <pubinfo>
+          <publish>U.S. EPA Office of Research and Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+          <pubplace>Research Triangle Park, NC</pubplace>
+        </pubinfo>
+        <pubdate>20180524</pubdate>
+        <onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS</onlink>
+        <onlink>https://enviroatlas.epa.gov/arcgis/rest/services</onlink>
+        <onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+        <onlink>https://www.epa.gov/enviroatlas</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>Publication date</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>2016</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-128.02839229</westbc>
+        <eastbc>-65.20336449</eastbc>
+        <northbc>51.6773602</northbc>
+        <southbc>22.7348894</southbc>
+      </bounding>
+    </spdom>
+    <accconst>None</accconst>
+    <useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+    <descript>
+      <abstract>This EnviroAtlas dataset describes the native freshwater aquatic biodiversity by 12-digit HUC (subwatershed) for the conterminous United States. It includes amphibians, fish, mollusks, decapods, and turtles. The metrics are: total species richness; count of threatened and endangered species; a rarity index; and a native vulnerability index. This dataset was produced by the US EPA to support research and online mapping activities related to the EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+      <purpose>This dataset could act as a starting point for further review and evaluation of freshwater biodiversity conservation needs. The overall goal of the EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+    </descript>
+    <secinfo>
+      <secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+      <secclass>public</secclass>
+      <sechandl>Standard Technical Controls</sechandl>
+    </secinfo>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntperp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <logic>Tests for integrity have not been performed.</logic>
+    <complete>Features represented have not been tested for completeness</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at http://epa.gov/geospatial/policies.html</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdate>20160525</procdate>
+        <procdesc>1. Acquired species habitat range data from IUCN (International Union for Conservation of Nature) Red List (http://www.iucnredlist.org/technical-documents/spatial-data).</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20160725</procdate>
+        <procdesc>2. In ArcGIS used Intersect tool to calculate percent overlap of each species' range with HUC_12s.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20160817</procdate>
+        <procdesc>3. In R, convert percent overlaps from exported attribute table to 0 for absence and 1 for presence.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20160817</procdate>
+        <procdesc>4. Calculate total species richness as the sum of the presence/absence columns (result is TotalAquaticSpeciesRich column).</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20160823</procdate>
+        <procdesc>5. In R, pull IUCN categories using IUCN API, then attach this information to the dataframe.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20160823</procdate>
+        <procdesc>6. In R, count the number of species that are vulnerable, endangered, or critically endangered (result is NativeAquaticAtRisk column).</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20170823</procdate>
+        <procdesc>7. In R, follow procedures from the Rarity package to first assign rarity weights to each species based on range size then to calculate a normalized average of the rarity weights for each HUC12 (result is NativeAqRarityIndexNorm column).</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20170823</procdate>
+        <procdesc>8. In R, calculate the native vulnerability index as the mean of the normalized count of threatened and endangered species and the normalized rarity index (result is NativeVulnIndexAquatic column).</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <planar>
+        <planci>
+          <plance>coordinate pair</plance>
+          <plandu>meters</plandu>
+          <coordrep>
+            <absres>0.000001</absres>
+            <ordres>0.000001</ordres>
+          </coordrep>
+        </planci>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.500000</stdparll>
+            <stdparll>45.500000</stdparll>
+            <longcm>-96.000000</longcm>
+            <latprjo>23.000000</latprjo>
+            <feast>0.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </albers>
+        </mapproj>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metd>20190731</metd>
+    <metfrd>20230731</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </metc>
+  </metainfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NativeAquaticBiodiversity</enttypl>
+        <enttypd>Native freshwater aquatic biodiversity</enttypd>
+        <enttypds>US EPA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>HUC_12</attrlabl>
+        <attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+        <attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>010000000000</rdommin>
+            <rdommax>999999999999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NativeAquaticAtRisk</attrlabl>
+        <attrdef>Count of threatened and endangered native aquatic species within the IUCN categories Vulnerable, Endangered, or Critically Endangered.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>26</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NativeAqRarityIndexNorm</attrlabl>
+        <attrdef>A native aquatic species rarity index that is the normalized average of rarity weights of all the species present within the HUC12.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0.96</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NativeVulnIndexAquatic</attrlabl>
+        <attrdef>Native aquatic species vulnerability index. The mean of the normalized count of threatened and endangered species and the normalized rarity index</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0.51</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TotalAquaticSpeciesRich</attrlabl>
+        <attrdef>Overall aquatic species richness, which includes amphibians, fish, turtles, decapods, and mollusks.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>265</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+      <eaover>This EnviroAtlas dataset estimates native aquatic animal biodiversity within the Conterminous US. It is based on species habitat data and status from the IUCN Red List (http://www.iucnredlist.org/technical-documents/spatial-data). 
+
+The species ranges published by IUCN were allocated to watersheds using Geographic Information Systems tools. Our native species database contains 1510 species, including fish, mollusks, amphibians, turtles, and crustaceans (shrimp and crayfish). IUCN assigns conservation status to species based on historical information, range estimates, and known population trends. 
+
+The rarity index was calculated using the "rarity" package for the open source statistical software R. For information about the Rarity package, see Leroy, B.; Canard, A.; Ysnel, F.; Andersen, A., Integrating multiple scales in rarity assessments of invertebrate taxa. Diversity and Distributions 2013, 19, (7), 794-803. https://cran.r-project.org/web/packages/Rarity/index.html
+
+The rarity index is the normalized average of rarity weights of all the species present within each subwatershed (12-digit HUC). Each species was assigned a rarity weight based on its range across the US; species with range sizes below the lowest quartile are considered rare, while the rest are considered common. Each watershed received a rarity score that is the average of the rarity weights of all species present in that watershed. Rarity is based on the size of a species range, so watersheds containing many species with very small ranges will have high rarity measures, whereas those containing mostly species that are very widespread across the US will have low rarity measures.
+
+The vulnerability index is the mean of the normalized count of threatened and endangered species and the normalized rarity index.
+
+For more details on how these metrics were calculated, see
+Panlasigui, S.; Davis, A. J. S.; Mangiante, M. J.; Darling, J. A., Assessing threats of non-native species to native freshwater biodiversity: Conservation priorities for the United States. Biological Conservation 2018, 224, 199-208
+</eaover>
+    </overview>
+  </eainfo>
+</metadata>

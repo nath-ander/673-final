@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\AgBuffers</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\AgBuffers" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\AgBuffers" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+				<themekey>farming</themekey>
+				<themekey>inlandWaters</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Agriculture</themekey>
+				<themekey>Biology</themekey>
+				<themekey>Conservation</themekey>
+				<themekey>Drinking Water</themekey>
+				<themekey>Ecology</themekey>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Land</themekey>
+				<themekey>Management</themekey>
+				<themekey>Natural Resources</themekey>
+				<themekey>Quality</themekey>
+				<themekey>Recreation</themekey>
+				<themekey>Water</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+			<theme>
+				<themekt>User</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Agriculture</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Green Infrastructure</themekey>
+				<themekey>Land Cover</themekey>
+				<themekey>Riparian</themekey>
+				<themekey>Water</themekey>
+				<themekey>Wetlands</themekey>
+			</theme>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Agricultural Buffers by 12-Digit HUC for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Las Vegas, NV</pubplace>
+				</pubinfo>
+				<pubdate>20170601</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This EnviroAtlas dataset estimates the average agricultural buffer width, the percentage of agricultural lands with flow paths that would intersect natural land cover before reaching a stream, and the percentage of each subwatershed (12-digit HUC) that is unbuffered agricultural land. Subwatershed summaries are calculated for the contiguous United States. The map uses a combined land use/land cover map from the 2006 National Land Cover Database (NLCD) and the 2010 Cropland Data Layer (CDL). It combines agriculture, forests, grasslands and wetlands with stream networks and elevation datasets in flow path models to find agricultural flow paths that do or do not intersect buffers, and counts the agricultural flow paths through buffers adjacent to streams in order to determine average buffer widths on agricultural lands. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>This dataset contains information about buffers for agricultural land. These layers can assist in identifying areas that could benefit from restoration and preservation of riparian buffers within agricultural landscapes. Subwatersheds with low average buffer widths, low percentages of agricultural buffers, or high percentages of non-buffered agriculture can be selected for further exploration and analysis to address water quality and habitat concerns. The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+			<supplinf>It is important to recognize that the average buffer width metric does not include any riparian areas that do not also contain agriculture upslope. For estimates of buffers across all land cover types, Percent Forest and Woody Wetlands might be more appropriate. 
+
+			0.004% of cells with agricultural land cover did not have a flow accumulation value in the buffer calculations, because the flow went off the edge of the classified area. As a result, there are 7 HUCs that are null for Avg_Buff_Width, despite having a very small amount of agriculture (1 to 5 30-m cells).</supplinf>
+		</descript>
+		<timeperd>
+			<current>Publication date</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>2006</begdate>
+					<enddate>2010</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<secinfo>
+			<secsys>http://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>AgBuffers</enttypl>
+				<enttypd>Agricultural buffers for the Conterminous US by 12-digit HUC</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_NonBuff_Ag</attrlabl>
+				<attrdef>Nonbuffered agriculture as a percentage of total land area in the HUC12. Null indicates a HUC12 with no agriculture.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>97.3666</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_Ag_Buffered</attrlabl>
+				<attrdef>Buffered agriculture as a percentage of total agriculture in each 12-digit HUC. Null indicates a HUC12 with no agriculture.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Avg_Buff_Width</attrlabl>
+				<attrdef>The average width in meters of buffers that are contiguous to the stream and are intersected by agricultural flow paths. This metric does not include any riparian areas that do not also contain agriculture upslope. Null indicates a HUC12 with no agriculture.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>63967.5</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>This overview describes the GIS toolbox used to analyze nutrient removal by forests and wetlands (i.e., sinks) from flows coming from upstream source cells (i.e., agriculture).
+
+1) The tool creates six rasters of constant value for the extent of the DEM (digital elevation model). The upper and lower bound values for the source, wetland, and forested area types are assigned individually to one of the six rasters.
+
+2) Three rasters are then created for wetlands, forest, and source that either contain ones or zeros (ones indicate the land area type exists). The rasters are generated by comparing the land use raster to each of the six rasters that were created. If the value in the land use raster cell falls within the range for a given area type, then a value of 1 is assigned to the new raster. 
+
+3) The "sink" raster is created by adding the forest and wetland rasters together yielding a raster that contains areas that could serve as "sinks" for nutrient runoff. Raster cell values of 1 represent areas that contain forest or wetland. 
+
+4) Occurring separately from the sink and source raster creation is the calculation of the flow direction raster from the 30m DEM input. 
+
+5) The stream raster that is input into the tool with 1 representing the stream and 0 representing everything else is then modified. A new stream raster is created that has values of 0 where the streams are and values of 1 where there are not defined streams. 
+
+6) The stream raster with 0 values defining the stream reaches is multiplied by the flow direction raster. This yields a flow direction raster defining 0 values along the stream reaches within the flow direction raster. Consequently when the flow length tool is run, the "downstream" extent is measured to any 0 value (i.e., when the flow enters a defined stream).
+
+7) Two flow length grids are then created: one is the distance to the "stream" for the entire raster weighted by the stream raster mask. The distance to the stream is calculated for every grid cell. Another raster is created that calculates the distance to the "stream" (0 value) but is weighted by the sink raster mask. In this new raster, distances across non-forested or non-wetland land use areas are not counted. A distance is only measured if the cell contains a 1 in the sink raster. Consequently, this flow length tool output measures the distance that is traveled only through sink cells. 
+8) The two flow length grids that were created are then compared to one another to generate a raster that is composed of forest or wetland cells that drain contiguously to a "stream". The tool compares each cell in the two flow length rasters and determines if the flow length is the same length. If the flow length is the same between the two flow length rasters then the cell must be connected contiguously to a stream (because the first flow grid measures absolute length regardless of cell type and the second grid measures absolute length of only forested or wetland cells). This contiguity raster is a value of 1 where the cells are contiguously drained forested or wetland cells and a value of 0 where they are not contiguously drained. 
+
+9) The final step in the flow length process involves the source and contiguity rasters. If the cell contains a 1 in the source raster then the flowlength is calculated from the flow direction grid using the contiguity raster as a mask. This means that each source cell will have a distance through contiguous sink area.
+
+10) Separately, after the flow direction raster is created and "burned" with the null stream values (step 6), the flow accumulation raster is then calculated. The flow accumulation raster is weighted by the source raster. In the source raster, 1 appears if the cell is a source type and 0 if not. This means that only flows from source cells will be accounted for in the flow accumulation. Flows from non-source cells are weighted by zero and are not counted (i.e., flow just passes through the cell unchanged). Flows generated from forested, wetland, or other "non-source" areas are not incorporated into the flow accumulation.
+
+11) if the land cover is one of the classes that is considered a sink, and the flow accumulation that results from source contributions is not zero, then it considered to be a sink cell that treats source water
+
+12) A raster of contiguous sink that "treats" source water is then calculated. If the contiguity raster has a value of 1 for the cell and the flow accumulation is non-zero, then the sink contiguously treats source cells.
+
+13) The buffer length is then assigned to upstream ag cells to give each source cell a buffer width.
+
+14.a.) Found the amount of unbuffered agricultural land as a percent of the HUC12 area: total land cover, total ag buffered cells with buffer width = 0 are counted for each HUC12 and then the percent of nonbuffered agriculture cells / # of total land cells.
+
+14.b.) Found the percent of agricultural land that is buffered in each HUC12: total ag and ag buffered cells with a buffer width of &gt;0 m were summed for each HUC12 using tabulate area. Then the percentage of agricultural cells with buffered flow was calculated by dividing the summed area of buffered cells by the total summed area of agriculture.
+
+14.c.) Found the average buffer width by HUC12: The buffer width of source cells is summed for each HUC12 and divided by the total number of source cells.</eaover>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+		</overview>
+	</eainfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://epa.gov/geospatial/policies.html</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>30m hydroenforced DEM (USGS National Elevation Dataset 1 arc (30m)) processed to be integer with elevation measured in centimeters</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>Created a binary raster from the National Hydrography Dataset (NHD) high resolution (1:24k resolution) where outlines of NHD waterbodies were also considered lines and 1 = stream cell and 0 = non-stream cell</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>Binary sink raster created from the EnviroAtlas hybrid 2006NLCD/2010CDL layer with codes 63 (Woodland), 87 (Wetlands), 141 (Deciduous Forest), 142 (Evergreen Forest), 143 (Mixed Forest), 152 (Shrubland), 171 (Grassland Herbaceous), 190 (Woody Wetlands), and 195 (Herbaceous Wetlands) considered sinks. Essentially all woodlands, wetlands, forest, shrublands, and grasslands</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>Binary agricultural source area raster created from 2006NLCD/2010CDL layer with codes 1-6 (Corn, Cotton, Rice, Sorghum, Soybeans, Sunflower, ) 10-14 (Peanuts, Tobacco, Sweet Corn, Pop. or Orn. Corn, Mint, ), 21-38 (Barley, Durum Wheat, Spring Wheat, Winter Wheat, Other Small Grains, Dbl. Crop WinWht/Soy, Rye, Oats, Millet, Speltz, Canola, Flaxseed, Safflower, Rape Seed, Mustard, Alfalfa, Other Hay, Camelina, ), 41-49 (Sugarbeets, Dry Beans, Potatoes, Other Crops, Sugarcane, Sweet Potatoes, Misc. Vegs. and Fruits, Watermelons, Onions, ), 52-60 (Lentils, Peas, Tomatoes, Caneberries, Hops, Herbs, Clover/Wildflowers, Sod/Grass Seed, Switchgrass, ), 66-77 (Cherries, Peaches, Apples, Grapes, Christmas Trees, Other Tree Nuts, Citrus, Other Tree Fruits, Pecans, Almonds, Walnuts, Pears, ), 182 (Cultivated Crop, ), 204-254 (Pistachios, Triticale, Carrots, Asparagus, Garlic, Cantaloupes, Prunes, Olives, Oranges, Honeydew Melons, Broccoli, Peppers, Pomegranates, Nectarines, Greens, Plums, Strawberries, Squash, Apricots, Vetch, Dbl. Crop WinWht/Corn, Dbl. Crop Oats/Corn, Lettuce, Cucumbers, Pumpkins, Dbl. Crop Lettuce/Durum Wht, Dbl. Crop Lettuce/Cantaloupe, Dbl. Crop Lettuce/Upland Cotton, Dbl. Crop Durum Wht/Sorghum, Dbl. Crop Barley/Sorghum, Dbl. Crop WinWht/Sorghum, Dbl. Crop Barley/Corn, Dbl. Crop WinWht/Cotton, Dbl. Crop Soybeans/Cotton, Dbl. Crop Soybeans/Oats, Dbl. Crop Corn/Soybeans, Blueberries, Cabbage, Cauliflower, Celery, Radishes, Turnips, Eggplants, Gourds, Cranberries, Dbl. Crop Barley/Soybeans, ). Essentially all cultivated crops, excluding general pasture.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>Place DEM, sink binary raster, NHD binary raster, ag source binary raster into riparian tool found at http://ches.communitymodeling.org/models.php#buffer</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>Tool steps involve creation of a flow direction grid and 2 flow length rasters with downstream extent: one is distance to stream from all grid cells, the other is distance to stream weighted by the sink raster. The 2 flow lengths are compared to determine contiguous sinks to the stream, then assign flow length through source cells. Then, the tool calculates the flow accumulation weighted by source raster and amount of sink that treats ag flow at any point.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>Output of buffer width on source cells.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20130929</procdate>
+				<procdesc>Output rasters of D8bufferwidth, ag cells with buffer &gt;0m and ag buffer cells =0, total source cells, and total land cells tallied for 12 digit HUC and average and percentages calculated</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metd>20170627</metd>
+		<metfrd>20210627</metfrd>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+</metadata>

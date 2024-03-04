@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<Esri>
+		<PublishedDocID>{D5113083-CFCD-48EC-BC24-0ADA5B9BDDB7}</PublishedDocID>
+	</Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Demand for Ecosystem Services</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Human</themekey>
+				<themekey>Water</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Agricultural Water Demand by 12-Digit HUC for the Conterminous United States</title>
+				<pubdate>20180328</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Publication date</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2010 (USGS Water Use); 2007, 2012 (USGS MIrAD-US); 2011 (CDL(USDA)-NLCD(MRLC), EnviroAtlas version); 2015 (NHD Plus v2 WBD Snapshot, EnviroAtlas version)</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>The national agricultural water demand metric provides insight into the amount of water used for agricultural irrigation in the contiguous United States. The estimates are derived from a water usage rate per 30m cell based on 2010 irrigation water use; an indication of agricultural irrigation based on 2011 crop, 2011 land use, and 2007/2012 remotely sensed irrigation; and summarized by watershed or 12-digit hydrologic unit code (HUC). Agricultural irrigation water use, as defined in this case, meets a variety of needs before, during, and after growing seasons (e.g., dust suppression, field preparation, chemical application, weed control, salt removal from root zones, frost protection, crop cooling, and harvesting). Estimates include self-supplied surface and groundwater, as well as supplies from irrigation-specific organizations (e.g., companies, districts, cooperatives, government).
+
+				This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>This information could be used in conjunction with other data to identify potential imbalances and trends between supply and demand. In areas with significant imbalances or detrimental trends, measures to further understand and alleviate pressure on the water supply could be implemented. In subsequent updates to the EnviroAtlas, future demand scenarios will be incorporated.
+
+				The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+			<supplinf>With regard to the county-level data, estimated irrigation water use covers a variety of uses in addition to agriculture, such as for golf courses, parks, nurseries, turf farms, and cemeteries. Where estimates were available, golf course irrigation was excluded in the development of this map. 
+				Remotely-sensed irrigation and the re-aggregation of water use also have limitations. Vacillating weather patterns influence the irrigation demand and, therefore, satellite imagery over time. Irrigation water withdrawals, such as with the county-level estimates, are calculated in the county in which they occur. This water, however, may be delivered across county or watershed boundaries before it is applied, resulting in differences between the county-level data and the remotely-sensed data. Considerable efforts have been made to report the most accurate estimates across these data.
+
+			</supplinf>
+		</descript>
+		<secinfo>
+			<secsys>http://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://epa.gov/geospatial/policies.html</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20180205</procdate>
+				<procdesc>Developed a water usage rate raster - a) Downloaded 2010 county-level USGS (U.S. Geological Survey) Water Use Excel data. b) Removed golf irrigation from overall irrigation water use (IR_WFrTo - IG_WFrTo = WFrTo_NoG) and acreage (IR_IrTot - IG_IrTot = IrTot_NoG) estimates. c) Calculated the initial water usage rate ( (WFrTo_NoG * 1000000) / (IrTot_NoG * 1000) ), resulting in gallons per acre per day per county. d) For spatial representation and processing, joined the initial Ag per Acre water rate to the 2010 TIGER county-level layer (projected to D_North_American_1983, USA_Contiguous_Albers_Equal_Area_Conic_USGS_version) and exported the combined layers to a new layer using ArcMap 10.3.1. e) Updated the initial Ag per Acre results to account for variability in data resulting in no water rate (e.g., irrigated acreage without water use). Counties with Ag per Acre &gt; 0 were i) selected (Select by Attribute) and ii) rasterized (Convert Polygon to Raster, 30m cells, snapped to the 2011 NLCD). iii) The median, mean, and majority per state were calculated with Zonal Statistics as Table and Excel. iv) States were assigned the state mean or median, whichever was closest to the majority. v) Rasterized the state values (30m cells, snapped to the 2011 NLCD). vi) Created the final Ag per Acre raster using the Con tool. Counties with Ag per Acre &gt; 0 provided the foundation. Counties with Ag per Acre = 0 were assigned the state value. f) Converted the final Ag per Acre raster to Ag per Cell (Ag per Acre * 0.222395 where the conversion is 900 (30m x 30m cell) * 0.000247105381 (conversion from acreage to meters squared)).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20180205</procdate>
+				<procdesc>Developed an irrigated land cover raster - a) USGS MIrAD-US develops 250m grids of remotely sensed irrigation. Combined the 2007 and 2012 grids by i) reprojecting to D_North_American_1983, USA_Contiguous_Albers_Equal_Area_Conic_USGS_version, ii) adding the datasets using Raster Calculator, and iii) reclassifying the combined dataset as irrigation indicated (1) or not indicated (0). b) The CDL-NLCD (2011) provides a 30m grid of land cover types, including crop-specific classes. Reclassified the gridded crops as potentially irrigated double crops (2), potentially irrigated single crops (1), or crops unlikely to be irrigated and all other land cover types (0). c) Filtered the combined and reclassed 250m MIrAD-US layer with the reclassed 30m CDL-NLCD layer using the Con tool, resulting in a 30m grid of potentially irrigated crops (1), potentially irrigated double crops (2), and none (either layer or both layers did not indicate potential irrigation).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20180205</procdate>
+				<procdesc>Distributed and weighted the water use -  The water rate was applied to (multiplied by) the irrigation raster using the Raster Calculator, resulting in a 30m grid in gallons per cell.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20180205</procdate>
+				<procdesc>Summarized by watershed - Summarized the distributed water use by watershed or 12-digit HUC (EnviroAtlas NHD Plus v2 WBD Snapshot, 2015) using the Sum attribute from Zonal Statistics as Table.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20180205</procdate>
+				<procdesc>Formatted results - Updated the attribute names and divided the results to millions of gallons per day for display.</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20180328</metd>
+		<metfrd>20220328</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>AgW_Demand_20180328</enttypl>
+				<enttypd>Agricultural Water Demand by 12-Digit HUC</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AWDBYHUC</attrlabl>
+				<attrdef>Sum of the agricultural water demand within the 12-Digit HUC (gallons of water per day).</attrdef>
+				<attrdefs>EPA, 2018</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>520378307</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AWD_MGAL</attrlabl>
+				<attrdef>Sum of the agricultural water demand within the 12-Digit HUC (million gallons of water per day).</attrdef>
+				<attrdefs>EPA, 2012</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>520</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>In general terms, agricultural irrigation per acre per day per county was estimated using 2010 USGS Water Use data. Then, to ensure the capture of remotely sensed or detected irrigation, counties with zero irrigation per acre per day were assigned generalized state level values. These county-level water use values were then converted and distributed according to remotely sensed irrigated locations and potentially irrigated crop types per 30 meter square or pixel on the ground. This water use was then summarized for each 12-digit HUC or watershed. Regarding the USGS Water Use data, the USGS estimates a variety of water use data at 5-year intervals through the National Water Use Information Program (NWUIP - https://water.usgs.gov/watuse/data). Data is collected at the state level by USGS water-use study chiefs and estimates are provided at the county level. Compilation methods vary slightly by state, depending on available data and relevance. Coefficients are derived and applied as needed. Overall guidelines used by the water-use study chiefs and the original data are available through the NWUIP website (https://pubs.usgs.gov/tm/2007/tm4e1). The USGS Moderate Resolution Imaging Spectroradiometer (MODIS) Irrigated Agriculture Dataset for the United States (MIrAD-US) was derived at 250m resolution using the National Land Cover Dataset (NLCD), USDA Census of Agriculture irrigated area statistics, and annual maximum vegetation index calculated from NASA MODIS imagery. The potentially irrigated crop locations were refined to 30m resolution through use of the combined 2011 USDA Cropland Data Layer and the 2011 MRLC National Land Cover Data layer derived by EnviroAtlas. Further methodology detail available in the Processing Steps section.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

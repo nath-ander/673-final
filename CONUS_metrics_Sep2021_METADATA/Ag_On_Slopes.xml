@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Ag_On_Slopes</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\Ag_On_Slopes" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Ag_On_Slopes" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Agriculture</themekey>
+				<themekey>Air</themekey>
+				<themekey>Biodiversity</themekey>
+				<themekey>Biology</themekey>
+				<themekey>Biophysical</themekey>
+				<themekey>Biota</themekey>
+				<themekey>Boundaries</themekey>
+				<themekey>Census Block Groups</themekey>
+				<themekey>Cleanup</themekey>
+				<themekey>Climate</themekey>
+				<themekey>Communities</themekey>
+				<themekey>Compliance</themekey>
+				<themekey>Conservation</themekey>
+				<themekey>Contaminant</themekey>
+				<themekey>Demand for Ecosystem Services</themekey>
+				<themekey>Demographics</themekey>
+				<themekey>Disaster</themekey>
+				<themekey>Drinking Water</themekey>
+				<themekey>Drivers of Change - Ecosystem Services</themekey>
+				<themekey>Ecology</themekey>
+				<themekey>Economy</themekey>
+				<themekey>Ecosystem</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>Elevation</themekey>
+				<themekey>Emergency</themekey>
+				<themekey>Endangered</themekey>
+				<themekey>Energy</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Environmental Justice</themekey>
+				<themekey>Estuary</themekey>
+				<themekey>Exposure</themekey>
+				<themekey>Facilities</themekey>
+				<themekey>Food</themekey>
+				<themekey>Green Infrastructure</themekey>
+				<themekey>Green Space</themekey>
+				<themekey>Ground Water</themekey>
+				<themekey>Habitat</themekey>
+				<themekey>Hazards</themekey>
+				<themekey>Health</themekey>
+				<themekey>Human</themekey>
+				<themekey>Human Well-being</themekey>
+				<themekey>Impact</themekey>
+				<themekey>Imperiled</themekey>
+				<themekey>Indicator</themekey>
+				<themekey>Indoor Air</themekey>
+				<themekey>Inspections</themekey>
+				<themekey>Land</themekey>
+				<themekey>Land Cover</themekey>
+				<themekey>Management</themekey>
+				<themekey>Marine</themekey>
+				<themekey>Modeling</themekey>
+				<themekey>Monitoring</themekey>
+				<themekey>Natural Resources</themekey>
+				<themekey>Permits</themekey>
+				<themekey>Pesticides</themekey>
+				<themekey>Potential for Change - Ecosystem Services</themekey>
+				<themekey>Protected Lands</themekey>
+				<themekey>Quality</themekey>
+				<themekey>Radiation</themekey>
+				<themekey>Recreation</themekey>
+				<themekey>Regulatory</themekey>
+				<themekey>Remediation</themekey>
+				<themekey>Response</themekey>
+				<themekey>Riparian</themekey>
+				<themekey>Risk</themekey>
+				<themekey>Sites</themekey>
+				<themekey>Society</themekey>
+				<themekey>Soils</themekey>
+				<themekey>Spills</themekey>
+				<themekey>Structure</themekey>
+				<themekey>Supply of Ecosystem Services</themekey>
+				<themekey>Surface Water</themekey>
+				<themekey>Sustainability</themekey>
+				<themekey>Threatened</themekey>
+				<themekey>Toxics</themekey>
+				<themekey>Transportation</themekey>
+				<themekey>Utilities</themekey>
+				<themekey>Waste</themekey>
+				<themekey>Water</themekey>
+				<themekey>Wetlands</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+			<theme>
+				<themekt>User</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Agriculture</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Land Cover</themekey>
+				<themekey>Surface Water</themekey>
+				<themekey>Water</themekey>
+			</theme>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - 2011 Agricultural Land Cover on Steep Slopes for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20161214</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset represents the percentage land area that is classified as agricultural land cover that occurs on slopes above a given threshold for each 12-digit hydrologic unit code (HUC) in the conterminous United States. Agricultural land cover is defined using the EnviroAtlas hybrid Cropland Data Layer (CDL) - 2011 National Land Cover Dataset (NLCD). Percentage slope values were derived from the 1 arc-second National Elevation Dataset (NED).
+
+This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>This dataset is useful for evaluating the potential value of ecosystem services provided by vegetation communities, and the impacts of developed land cover. The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://www.epa.gov/geospatial/geospatial-policies-and-standards</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20160302</procdate>
+				<procdesc>Obtained the EnviroAtlas hybrid 2011 Cropland Data Layer (CDL) and NLCD 2011 land cover raster</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160302</procdate>
+				<procdesc>Obtained the NHDPlusV2 Watershed Boundary Dataset (WBD) Snapshot, EnviroAtlas version.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20161027</procdate>
+				<procdesc>Obtained the US Slope 30m Albers Dataset, EnviroAtlas version.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20161027</procdate>
+				<procdesc>Calculated land cover percentages on slopes greater than 3 %. Calculations were done using the Land Cover on Slope Proportions tool in the Landscape Characteristics toolset of the ATtILA for ArcGIS toolbox (ATtILA 10_0.tbx, 5/26/2016 version) in ArcGIS. Calculated agrSL3, agrpSL3, and agrcSL3. Used NHDPlusV2_WBDSnapshot_EnviroAtlas_CONUS as the reporting unit feature, cdl_nlcd as the land cover grid, and US_slope_30m_Albers as the slope grid. Used a user-defined land cover scheme for the hybrid CDL-NLCD dataset.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20161027</procdate>
+				<procdesc>Calculated land cover percentages on slopes greater than 6 %. Calculations were done using the Land Cover on Slope Proportions tool in the Landscape Characteristics toolset of the ATtILA for ArcGIS toolbox (ATtILA 10_0.tbx, 5/26/2016 version) in ArcGIS. Calculated agrSL9, agrpSL9, and agrcSL9. Used NHDPlusV2_WBDSnapshot_EnviroAtlas_CONUS as the reporting unit feature, cdl_nlcd as the land cover grid, and US_slope_30m_Albers as the slope grid. Used a user-defined land cover scheme for the hybrid CDL-NLCD dataset.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20161214</procdate>
+				<procdesc>Calculation output tables were joined into a single table</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170414</metd>
+		<metfrd>20210414</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Ag_On_Slopes</enttypl>
+				<enttypd>Percentage of land area within 12-digit hydrologic unit classified as various agriculture land cover super classes on areas above given slope thresholds.</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PctAg_slope3</attrlabl>
+				<attrdef>Percentage of WBD 12-digit Hydrologic Unit land area that is classified as agriculture (1-6, 10-14, 21-38, 41-50, 52-61, 66-72, 74-77, 92, 181-182, 204-214, 216-227, 229-250, 254) on areas with slopes greater than or equal to three percent.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PctPasture_slope3</attrlabl>
+				<attrdef>Percentage of WBD 12-digit Hydrologic Unit land area that is classified as pasture (36, 37, 58, 60, 181, 224) on areas with slopes greater than or equal to three percent.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PctCrop_slope3</attrlabl>
+				<attrdef>Percentage of WBD 12-digit Hydrologic Unit land area that is classified as cropland (1-6, 10-14, 21-35, 38, 41-50, 52-57, 59, 61, 66-72, 74-77, 182, 204-214, 216-223, 225-227, 229-250, 254) on areas with slopes greater than or equal to three percent.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PctAg_slope9</attrlabl>
+				<attrdef>Percentage of WBD 12-digit Hydrologic Unit land area that is classified as agriculture (1-6, 10-14, 21-38, 41-50, 52-61, 66-72, 74-77, 92, 181-182, 204-214, 216-227, 229-250, 254) on areas with slopes greater than or equal to nine percent.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PctPasture_slope3</attrlabl>
+				<attrdef>Percentage of WBD 12-digit Hydrologic Unit land area that is classified as pasture (36, 37, 58, 60, 181, 224) on areas with slopes greater than or equal to nine percent.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PctCrop_slope9</attrlabl>
+				<attrdef>Percentage of WBD 12-digit Hydrologic Unit land area that is classified as cropland (1-6, 10-14, 21-35, 38, 41-50, 52-57, 59, 61, 66-72, 74-77, 182, 204-214, 216-223, 225-227, 229-250, 254) on areas with slopes greater than or equal to nine percent.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>The metric was generated using the ATtILA tool (https://www.epa.gov/enviroatlas/attila-toolbox), an ArcGIS tool for calculating commonly used landscape metrics. The land cover input is the EnviroAtlas 2011 CDL-NLCD, a raster dataset that is a hybrid of the 2011 NLCD (www.mrlc.gov/) and the 2011 CDL (https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php). The slope grid input was derived from the 1 arc-second NED (https://nationalmap.gov/elevation.html). For more information on the metric calculation, please see the ATtILA User's Manual included with the toolbox. A comprehensive list of metric creation steps is included in the Processing Steps.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

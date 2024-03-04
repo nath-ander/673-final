@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<Esri>
+		<PublishedDocID>{ee50a529-93f1-417e-bbb8-7e4ff22cc0dd}</PublishedDocID>
+	</Esri>
+  <idinfo>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EPA GIS Keyword Thesaurus</themekt>
+        <themekey>Ecosystem</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnviroAtlas</themekt>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Alabama</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>California</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>United States</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington</placekey>
+        <placekey>Washington DC</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+      </place>
+      <theme>
+        <themekt>User</themekt>
+        <themekey>12-digit HUCs</themekey>
+        <themekey>Biodiversity</themekey>
+        <themekey>Conservation</themekey>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+        <themekey>Risk</themekey>
+        <themekey>Surface Water</themekey>
+      </theme>
+    </keywords>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Environmental Protection Agency (US EPA)</origin>
+        <title>EnviroAtlas - Non-Native Freshwater Aquatic Biodiversity by 12-digit HUC for the Conterminous United States</title>
+        <pubinfo>
+          <publish>U.S. EPA Office of Research and Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+          <pubplace>Research Triangle Park, NC</pubplace>
+        </pubinfo>
+        <pubdate>20180525</pubdate>
+        <onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS</onlink>
+        <onlink>https://enviroatlas.epa.gov/arcgis/rest/services</onlink>
+        <onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+        <onlink>https://www.epa.gov/enviroatlas</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>Publication date</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>2017</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-128.02839229</westbc>
+        <eastbc>-65.20336449</eastbc>
+        <northbc>51.6773602</northbc>
+        <southbc>22.7348894</southbc>
+      </bounding>
+    </spdom>
+    <accconst>None</accconst>
+    <useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+    <descript>
+      <abstract>This EnviroAtlas dataset describes the non-native freshwater aquatic diversity by 12-digit HUC (subwatershed) for the conterminous United States. It includes animals and plants. This dataset was produced by the US EPA to support research and online mapping activities related to the EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+      <purpose>This dataset could act as a starting point for further review and evaluation of freshwater biodiversity conservation needs. The overall goal of the EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+    </descript>
+    <secinfo>
+      <secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+      <secclass>public</secclass>
+      <sechandl>Standard Technical Controls</sechandl>
+    </secinfo>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntperp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <logic>Tests for integrity have not been performed.</logic>
+    <complete>Features represented have not been tested for completeness</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at http://epa.gov/geospatial/policies.html</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdate>20170303</procdate>
+        <procdesc>1. Acquired observation location data from USGS NAS (U.S. Geological Survey Nonindigenous Aquatic Species Database) API. Also acquired data from the Early Detection and Distribution Mapping System (EDDMapS) and the USGS Biodiversity Serving Our Nation (BISON) database, which is the US data repository for the Global Biodiversity Information Facility (GBIF). See the Overview section for URLs.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20170303</procdate>
+        <procdesc>2. Converted into a point layer in ArcGIS.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>3. Spatial join adds which 12-digit HUC each point falls in.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>4. The resulting attribute table is brought into R, where a script calculates the number of unique species per HUC12</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>5. Summed the result for plants and the result for animals to get the species richness for both.</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <planar>
+        <planci>
+          <plance>coordinate pair</plance>
+          <plandu>meters</plandu>
+          <coordrep>
+            <absres>0.000001</absres>
+            <ordres>0.000001</ordres>
+          </coordrep>
+        </planci>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.500000</stdparll>
+            <stdparll>45.500000</stdparll>
+            <longcm>-96.000000</longcm>
+            <latprjo>23.000000</latprjo>
+            <feast>0.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </albers>
+        </mapproj>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metd>20190731</metd>
+    <metfrd>20230731</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </metc>
+  </metainfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>NonNativeAquaticBiodiversity</enttypl>
+        <enttypd>Non-Native Freshwater Aquatic Biodiversity by 12-digit HUC</enttypd>
+        <enttypds>US EPA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>HUC_12</attrlabl>
+        <attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+        <attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>010000000000</rdommin>
+            <rdommax>999999999999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PlantRich</attrlabl>
+        <attrdef>Species richness for non-native aquatic plants. Zero does not necessarily imply absence; rather, it means that no species was recorded in the watershed.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>44</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AnimRich</attrlabl>
+        <attrdef>Species richness for non-native aquatic animals.  Zero does not necessarily imply absence; rather, it means that no species was recorded in the watershed.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>30</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TotRich</attrlabl>
+        <attrdef>Species richness for non-native aquatic plants and animals.  Zero does not necessarily imply absence; rather, it means that no species was recorded in the watershed.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>44</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+      <eaover>This EnviroAtlas national map displays the number of non-native aquatic species (plants and animals) present within each subwatershed (12-digit HUC) across the Conterminous United States (all states excluding Alaska, Hawaii, and island territories). These numbers are based on occurrence data drawn from publicly accessible databases, and reflect compilations of non-native species observations from multiple independent data sources.
+
+Data on non-native aquatic species occurrences were drawn from multiple publicly accessible databases. These include the U.S. Geological Survey (USGS) Non-indigenous Aquatic Species database (primarily for animal species) as well as the Early Detection and Distribution Mapping System (EDDMapS) and the USGS Biodiversity Serving Our Nation (BISON) database, which is the US data repository for the Global Biodiversity Information Facility (GBIF). The USGS NAS API's URL is http://nas.er.usgs.gov/api/v1; documentation can be found at https://nas.er.usgs.gov/api/documentation.aspx. EDDMapS data were downloaded from https://www.eddmaps.org/Species/. The BISON database is at https://bison.usgs.gov. BISON data was obtained from http://bison.usgs.gov/solr/occurrences/select/ with the species name and other variables appended to the URL. We restricted the database to only those species that are non-native to the conterminous United States, and excluded species introduced from their primary US native range to other regions of the country. Non-native species richness was determined by simply summing the number of species observed to occur within each subwatershed. To learn more about how the database was assembled, see Davis, A. J. S.; Darling, J. A.; Leung, B., Recreational freshwater fishing drives non-native aquatic species richness patterns at a continental scale. Diversity and Distributions 2017.
+</eaover>
+    </overview>
+  </eainfo>
+</metadata>

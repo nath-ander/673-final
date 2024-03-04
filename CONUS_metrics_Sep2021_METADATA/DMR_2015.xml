@@ -1,0 +1,707 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<Esri>
+		<PublishedDocID>{9e5639f1-3089-4f27-a904-840fd5a35797}</PublishedDocID>
+	</Esri>
+  <idinfo>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EPA GIS Keyword Thesaurus</themekt>
+        <themekey>Ecosystem</themekey>
+        <themekey>Environment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnviroAtlas</themekt>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Alabama</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>California</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>United States</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington</placekey>
+        <placekey>Washington DC</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+      </place>
+      <theme>
+        <themekt>User</themekt>
+        <themekey>12-digit HUCs</themekey>
+        <themekey>Ecosystem Services</themekey>
+        <themekey>EnviroAtlas</themekey>
+        <themekey>Environment</themekey>
+        <themekey>Environmental Atlas</themekey>
+        <themekey>Impact</themekey>
+        <themekey>Quality</themekey>
+        <themekey>Regulatory</themekey>
+        <themekey>Surface Water</themekey>
+      </theme>
+    </keywords>
+    <citation>
+      <citeinfo>
+        <origin>U.S. Environmental Protection Agency (US EPA)</origin>
+        <title>EnviroAtlas - 2015 EPA Discharge Monitoring Report Watershed Statistics by 12-digit HUC for the Conterminous United States</title>
+        <pubinfo>
+          <publish>U.S. EPA Office of Research and Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+          <pubplace>Research Triangle Park, NC</pubplace>
+        </pubinfo>
+        <pubdate>20180524</pubdate>
+        <onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS</onlink>
+        <onlink>https://enviroatlas.epa.gov/arcgis/rest/services</onlink>
+        <onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+        <onlink>https://www.epa.gov/enviroatlas</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>Publication date</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>2015</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-128.02839229</westbc>
+        <eastbc>-65.20336449</eastbc>
+        <northbc>51.6773602</northbc>
+        <southbc>22.7348894</southbc>
+      </bounding>
+    </spdom>
+    <accconst>None</accconst>
+    <useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+    <descript>
+      <abstract>This EnviroAtlas dataset includes a number of Discharge Monitoring Report (DMR) metrics summarized by watershed for a given year (https://echo.epa.gov/help/loading-tool/watershed-statistics-help). These metrics include the number of facilities and wastewater discharges located within watersheds according to the Integrated Compliance Information System National Pollutant Discharge Elimination System (ICIS-NPDES), to track the permit compliance and enforcement status of facilities regulated by the NPDES under the Clean Water Act (https://echo.epa.gov/tools/data-downloads/icis-npdes-download-summary). This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+      <purpose>The purpose of this EnviroAtlas layer is to provide a summary of available wastewater discharge information by HUC12 unit. This dataset can be used in conjunction with other available EnviroAtlas datasets to assess impacts on clean and plentiful water. The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+      <supplinf>The original source for this data supplies both DMR and Toxics Release Inventory (TRI) statistics together in one dataset by HUC12. These entries were removed here either due to duplicate entries or missing/incomplete fields. The DMR statistics for temperature (avg. and maximum) were also removed due to tabulation errors resulting in incorrect values. </supplinf>
+    </descript>
+    <secinfo>
+      <secsys>http://project-open-data.github.io/schema/#accessLevel</secsys>
+      <secclass>public</secclass>
+      <sechandl>Standard Technical Controls</sechandl>
+    </secinfo>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntperp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <logic>Tests for integrity have not been performed.</logic>
+    <complete>Features represented have not been tested for completeness</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at http://epa.gov/geospatial/policies.html</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>Downloaded data for 2015 from https://echo.epa.gov/trends/loading-tool/get-data/watershed-statistics.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>Removed TRI fields (contained duplicate entries or missing/incomplete fields) and temperature data (tabulation errors resulted in incorrect values).</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>Cleaned up field names using find and replace to allow for GIS import.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>Repaired HUC12 fields that were missing leading 0s when needed; converted field to text strings to allow for consistent joining to NHDPlus v2 HUCs.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>Created "NoData" field. Set to "Y - DMR NoData" if the DMR includes a record for this HUC, but the values are NoData or 0; "Y - No DMR record" if there was no entry for this HUC in the DMR; or "N" if DMR fields contained data.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>Replaced Null fields with 0.</procdesc>
+      </procstep>
+      <procstep>
+        <procdate>20180524</procdate>
+        <procdesc>Joined available DMR data with matching HUC12s.</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <planar>
+        <planci>
+          <plance>coordinate pair</plance>
+          <plandu>meters</plandu>
+          <coordrep>
+            <absres>0.000001</absres>
+            <ordres>0.000001</ordres>
+          </coordrep>
+        </planci>
+        <mapproj>
+          <mapprojn>Albers Conical Equal Area</mapprojn>
+          <albers>
+            <stdparll>29.500000</stdparll>
+            <stdparll>45.500000</stdparll>
+            <longcm>-96.000000</longcm>
+            <latprjo>23.000000</latprjo>
+            <feast>0.000000</feast>
+            <fnorth>0.000000</fnorth>
+          </albers>
+        </mapproj>
+      </planar>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </distrib>
+  </distinfo>
+  <metainfo>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <metd>20190221</metd>
+    <metfrd>20230221</metfrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+          <cntper>EnviroAtlas Coordinator</cntper>
+        </cntorgp>
+        <cntpos>Geospatial Data Owner</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>109 T.W. Alexander Drive</address>
+          <city>Research Triangle Park</city>
+          <state>NC</state>
+          <postal>27709</postal>
+        </cntaddr>
+        <cntvoice>(919) 541-3832</cntvoice>
+        <cntemail>EnviroAtlas@epa.gov</cntemail>
+        <cntinst>https://www.epa.gov/enviroatlas</cntinst>
+      </cntinfo>
+    </metc>
+  </metainfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>DMR_2015</enttypl>
+        <enttypd>Discharge Monitoring Report (DMR) metrics summarized by watershed for a given year</enttypd>
+        <enttypds>US EPA</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>HUC_12</attrlabl>
+        <attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+        <attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>010000000000</rdommin>
+            <rdommax>999999999999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Number_of_DMR_Dischargers</attrlabl>
+        <attrdef>The number of facilities located in the watershed with pollutant loadings, based on DMR data in ICIS-NPDES.</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 139</edomv>
+            <edomvd>The number of facilities located in the watershed with pollutant loadings, based on DMR data in ICIS-NPDES.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total_DMR_Discharges_lb_yr</attrlabl>
+        <attrdef>The total reported amount of permitted discharges for all weighable parameters within each subwatershed (12-digit HUC) in pounds for 2015. The Loading Tool includes approximately 1,000 pollutant parameters including specific chemicals (e.g., phenol), bulk parameters (e.g., biochemical oxygen demand), temperature, and wastewater flow. However, these pollutants do not account for all pollutants discharged to U.S. waters. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 7637926376090</edomv>
+            <edomvd>The total reported amount of permitted discharges for all weighable parameters within each subwatershed (12-digit HUC) in pounds for 2015. The Loading Tool includes approximately 1,000 pollutant parameters including specific chemicals (e.g., phenol), bulk parameters (e.g., biochemical oxygen demand), temperature, and wastewater flow. However, these pollutants do not account for all pollutants discharged to U.S. waters. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total_DMR_TWPE_lb_eq_yr</attrlabl>
+        <attrdef>The total reported amount of permitted discharges within each subwatershed (12-digit HUC) for 2015, expressed as toxic-weighted pound-equivalents (TWPE). TWPE is the mass of a pollutant or chemical discharged that accounts for its relative toxicity. To convert pollutant loadings into TWPE, EPA multiplies the pollutant mass (in pounds) by its pollutant specific toxic weighting factor (TWF). Not all pollutants have a toxic weighting factor (for example, Total Suspended Solids), which means that these pollutants do not have a toxicity score (i.e., TWPE = 0). (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 100638218377</edomv>
+            <edomvd>The total reported amount of permitted discharges within each subwatershed (12-digit HUC) for 2015, expressed as toxic-weighted pound-equivalents (TWPE). TWPE is the mass of a pollutant or chemical discharged that accounts for its relative toxicity. To convert pollutant loadings into TWPE, EPA multiplies the pollutant mass (in pounds) by its pollutant specific toxic weighting factor (TWF). Not all pollutants have a toxic weighting factor (for example, Total Suspended Solids), which means that these pollutants do not have a toxicity score(i.e., TWPE = 0). (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Metals_Discharges_lb_yr</attrlabl>
+        <attrdef>The total reported amount of permitted pollutant loadings for metals parameters within each subwatershed (12-digit HUC) for 2015, in pounds. Hexavalent or trivalent metals and metals in ionic form (e.g., hexavalent chromium and aluminum, ion) are included, but metal compounds (e.g., calcium chloride) are not included. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 9393470135.59</edomv>
+            <edomvd>The total reported amount of permitted pollutant loadings for metals parameters within each subwatershed (12-digit HUC) for 2015, in pounds. Hexavalent or trivalent metals and metals in ionic form (e.g., hexavalent chromium and aluminum, ion) are included, but metal compounds (e.g., calcium chloride) are not included. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Metals_TWPE_lb_eq_yr</attrlabl>
+        <attrdef>The total reported amount of permitted pollutant loadings for metals parameters within each subwatershed (12-digit HUC) for 2015, expressed as toxic-weighted pound-equivalents (TWPE). TWPE is the mass of a pollutant or chemical discharged that accounts for its relative toxicity. To convert pollutant loadings into TWPE, EPA multiplies the pollutant mass (in pounds) by its pollutant specific toxic weighting factor (TWF). Not all pollutants have a toxic weighting factor(for example, Total Suspended Solids), which means that these pollutants do not have a toxicity score (i.e., TWPE = 0). (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 282885256.716</edomv>
+            <edomvd>The total reported amount of permitted pollutant loadings for metals parameters within each subwatershed (12-digit HUC) for 2015, expressed as toxic-weighted pound-equivalents (TWPE). TWPE is the mass of a pollutant or chemical discharged that accounts for its relative toxicity. To convert pollutant loadings into TWPE, EPA multiplies the pollutant mass (in pounds) by its pollutant specific toxic weighting factor (TWF). Not all pollutants have a toxic weighting factor(for example, Total Suspended Solids), which means that these pollutants do not have a toxicity score (i.e., TWPE = 0). (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Priority_Pollutants_Disch</attrlabl>
+        <attrdef>The total reported amount of permitted loadings for priority pollutants within each subwatershed (12-digit HUC) for 2015, in pounds. Includes the 126 pollutants that EPA currently defines as priority pollutants. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 131010071.039</edomv>
+            <edomvd>The total reported amount of permitted loadings for priority pollutants within each subwatershed (12-digit HUC) for 2015, in pounds. Includes the 126 pollutants that EPA currently defines as priority pollutants. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Priority_Pollutants_TWPE</attrlabl>
+        <attrdef>The total reported amount of permitted loadings for priority pollutants within each subwatershed (12-digit HUC) for 2015, expressed as toxic-weighted pound-equivalents (TWPE). TWPE is TWPE is the mass of a pollutant or chemical discharged that accounts for its relative toxicity. To convert pollutant loadings into TWPE, EPA multiplies the pollutant mass (in pounds) by its pollutant specific toxic weighting factor (TWF). Not all pollutants have a toxic weighting factor(for example, Total Suspended Solids), which means that these pollutants do not have a toxicity score(i.e., TWPE = 0). (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 282885256.716</edomv>
+            <edomvd>The total reported amount of permitted loadings for priority pollutants within each subwatershed (12-digit HUC) for 2015, expressed as toxic-weighted pound-equivalents (TWPE). TWPE is TWPE is the mass of a pollutant or chemical discharged that accounts for its relative toxicity. To convert pollutant loadings into TWPE, EPA multiplies the pollutant mass (in pounds) by its pollutant specific toxic weighting factor (TWF). Not all pollutants have a toxic weighting factor(for example, Total Suspended Solids), which means that these pollutants do not have a toxicity score(i.e., TWPE = 0). (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Solids_Discharges_lb_yr</attrlabl>
+        <attrdef>The total reported amount of solids discharges within each subwatershed (12-digit HUC) for 2015, in pounds. Includes all parameters for suspended and settleable solids. This category does not include chemical-specific solids, such as suspended copper. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 1899908680.07</edomv>
+            <edomvd>The total reported amount of solids discharges within each subwatershed (12-digit HUC) for 2015, in pounds. Includes all parameters for suspended and settleable solids. This category does not include chemical-specific solids, such as suspended copper. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Organic_Enrichment_Disch</attrlabl>
+        <attrdef>The total reported amount of pollutant discharges from biochemical oxygen demand (BOD) and chemical oxygen demand (COD) parameters within each subwatershed (12-digit HUC) for 2015, in pounds. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 1983696093.32</edomv>
+            <edomvd>The total reported amount of pollutant discharges from biochemical oxygen demand (BOD) and chemical oxygen demand (COD) parameters within each subwatershed (12-digit HUC) for 2015, in pounds. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total_DMR_Nitrogen_Discharges</attrlabl>
+        <attrdef>The total reported amount of aggregated nitrogen discharges within each subwatershed (12-digit HUC) for 2015, in pounds. This includes all parameters for total nitrogen, organic nitrogen, total Kjeldahl nitrogen, nitrite, nitrate, and ammonia. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 59939957.76</edomv>
+            <edomvd>The total reported amount of aggregated nitrogen discharges within each subwatershed (12-digit HUC) for 2015, in pounds. This includes all parameters for total nitrogen, organic nitrogen, total Kjeldahl nitrogen, nitrite, nitrate, and ammonia. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_N_Discharges_from_POTWs</attrlabl>
+        <attrdef>The total reported amount of aggregated nitrogen discharges from publicly-owned treatment works within each subwatershed (12-digit HUC) for 2015, in pounds. This includes all parameters for total nitrogen, organic nitrogen, total Kjeldahl nitrogen, nitrite, nitrate, and ammonia. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 49511534.445</edomv>
+            <edomvd>The total reported amount of aggregated nitrogen discharges from publicly-owned treatment works within each subwatershed (12-digit HUC) for 2015, in pounds. This includes all parameters for total nitrogen, organic nitrogen, total Kjeldahl nitrogen, nitrite, nitrate, and ammonia. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Total_DMR_Phosphorus_Discharges</attrlabl>
+        <attrdef>The total reported amount of aggregated phosphorus discharges within each subwatershed (12-digit HUC) for 2015, in pounds. All phosphorus and phosphate pollutant parameters are included. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 135943904.054</edomv>
+            <edomvd>The total reported amount of aggregated phosphorus discharges within each subwatershed (12-digit HUC) for 2015, in pounds. All phosphorus and phosphate pollutant parameters are included. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_P_Discharges_from_POTWs</attrlabl>
+        <attrdef>The total reported amount of aggregated phosphorus discharges from publicly-owned treatment works  within each subwatershed (12-digit HUC) for 2015, in pounds. All phosphorus and phosphate pollutant parameters are included. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 135943903.642</edomv>
+            <edomvd>The total reported amount of aggregated phosphorus discharges from publicly-owned treatment works  within each subwatershed (12-digit HUC) for 2015, in pounds. All phosphorus and phosphate pollutant parameters are included. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_N_Discharges_from_Non_POTWs</attrlabl>
+        <attrdef>The total reported amount of aggregated nitrogen discharges from industrial sources within each subwatershed (12-digit HUC) for 2015, in pounds. All parameters for total nitrogen, organic nitrogen, total Kjeldahl nitrogen, nitrite, nitrate, and ammonia. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 	59939957.76</edomv>
+            <edomvd>The total reported amount of aggregated nitrogen discharges from industrial sources within each subwatershed (12-digit HUC) for 2015, in pounds. All parameters for total nitrogen, organic nitrogen, total Kjeldahl nitrogen, nitrite, nitrate, and ammonia. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_P_Discharges_from_Non_POTWs</attrlabl>
+        <attrdef>The total reported amount of aggregated phosphorus discharges from industrial sources within each subwatershed (12-digit HUC) for 2015, in pounds. All phosphorus and phosphate pollutant parameters are included. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 77443222.994</edomv>
+            <edomvd>The total reported amount of aggregated phosphorus discharges from industrial sources within each subwatershed (12-digit HUC) for 2015, in pounds. All phosphorus and phosphate pollutant parameters are included. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMRAvgPathogen_Indicators_Disch</attrlabl>
+        <attrdef>The average reported discharge counts for total coliform, streptococci, E. coli, and enteric viruses  in colony-forming units per 100 milliliters  within each subwatershed (12-digit HUC) for 2015. These parameters are reported in units that cannot be expressed as a mass discharge, and thus are not included as total load calculations. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 9613500</edomv>
+            <edomvd>The average reported discharge counts for total coliform, streptococci, E. coli, and enteric viruses  in colony-forming units per 100 milliliters  within each subwatershed (12-digit HUC) for 2015. These parameters are reported in units that cannot be expressed as a mass discharge, and thus are not included as total load calculations. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Max_Pathogen_Indicators</attrlabl>
+        <attrdef>The maximum reported discharge counts for total coliform, streptococci, E. coli, and enteric viruses  in colony-forming units per 100 milliliters within each subwatershed (12-digit HUC) for 2015. These parameters are reported in units that cannot be expressed as a mass discharge, and thus are not included as total load calculations. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 41000000</edomv>
+            <edomvd>The maximum reported discharge counts for total coliform, streptococci, E. coli, and enteric viruses  in colony-forming units per 100 milliliters within each subwatershed (12-digit HUC) for 2015. These parameters are reported in units that cannot be expressed as a mass discharge, and thus are not included as total load calculations. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMRAvgDaily_Flow_MGD</attrlabl>
+        <attrdef>The reported average daily flow of treated wastewater discharges from POTWS (publicly-owned treatment works) and non-POTWs within each subwatershed (12-digit HUC) for 2015 in millions of gallons per day. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 4381.4675</edomv>
+            <edomvd>The reported average daily flow of treated wastewater discharges from POTWS (publicly-owned treatment works) and non-POTWs within each subwatershed (12-digit HUC) for 2015 in millions of gallons per day. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_Total_Annual_Flow_Mgal_yr</attrlabl>
+        <attrdef>The total reported flow of treated wastewater discharges from POTWS (publicly-owned treatment works) and non-POTWs within each subwatershed (12-digit HUC) for 2015 in millions of gallons per year. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 10375311.6236</edomv>
+            <edomvd>The total reported flow of treated wastewater discharges from POTWS (publicly-owned treatment works) and non-POTWs within each subwatershed (12-digit HUC) for 2015 in millions of gallons per year. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Number_of_CSOs</attrlabl>
+        <attrdef>The total number of reported combined sewer overflow events (CSOs) at publicly-owned treatment works located in the watershed in 2009. (Source: ICIS-NPDES)</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0 - 246</edomv>
+            <edomvd>The total number of reported combined sewer overflow events (CSOs) at publicly-owned treatment works located in the watershed in 2009. (Source: ICIS-NPDES)</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Null</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DMR_NoData</attrlabl>
+        <attrdef>Indicates whether all other DMR field information is blank or missing (not including Number of dischargers or CSOs).</attrdef>
+        <attrdefs>US EPA</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>Contains data.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Y - DMR NoData</edomv>
+            <edomvd>The DMR includes a record for this HUC, but the values are NoData or 0.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Y - No DMR record</edomv>
+            <edomvd>No entry for this HUC in the DMR.</edomvd>
+            <edomvds>US EPA</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+      <eaover>This dataset includes a number of Discharge Monitoring Report (DMR) metrics summarized by watershed for 2015.
+
+A comprehensive list of metric creation steps is included in the Processing Steps.</eaover>
+    </overview>
+  </eainfo>
+</metadata>

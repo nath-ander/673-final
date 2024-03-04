@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\NearRdNoBuff_Pop</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\NearRdNoBuff_Pop" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\NearRdNoBuff_Pop" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Exposure</themekey>
+				<themekey>Health</themekey>
+				<themekey>Human</themekey>
+				<themekey>Human Well-being</themekey>
+				<themekey>Transportation</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Sum of population near roads without tree buffer for the conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20170505</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset is a summary of total population near major roads without any tree buffer within 12-digit Hydrologic Units (HUC_12), based on the National Land Cover Database 2011 (NLCD 2011) percent tree canopy cover (TCC 2011) dataset. The metric is a measure of potential exposure to particulate matter from exhaust from traffic. Studies have shown that tree buffers can help improve air quality by filtering particulate matter for those living or working near roads.
+
+			This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>The summarized data provides an indication of potential for increased exposure to air pollutants known to impact human health. The metric is an estimate of ecosystem service demand for trees to improve air quality near roads.
+
+			The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+			<supplinf>This dataset was developed using the NLCD percent tree canopy cover (TCC 2011). The previous version used the 2006 NLCD. Because the tree canopy layer measures percent tree cover for pixels of all land cover classes, and not just those classified as tree canopy in the NLCD, this dataset generally estimates a smaller population near roads with no trees than what was estimated in the earlier version. For example, a pixel in the NLCD that has at least 50% impervious surface would be classified as Developed, Low Intensity in the NLCD, even though it could still include tree canopy. This pixel would be treated as having tree cover in this version, but not in the earlier version of this dataset.</supplinf>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://www.epa.gov/geospatial/geospatial-policies-and-standards</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20161209</procdate>
+				<procdesc>Selected 2011 NAVTEQ road data with classes 1, 2, 3, or 4 to remove ferry routes</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20161209</procdate>
+				<procdesc>Clipped NAVTEQ roads by HUC4 boundary using model builder due to size restrictions</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20161209</procdate>
+				<procdesc>Buffered NAVTEQ roads by 90m</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20161209</procdate>
+				<procdesc>Dissolved buffers, and merged clipped segments back together using Arcpy scripts</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170313</procdate>
+				<procdesc>Masked out major water bodies from NLCD 2011 cartographic canopy cover</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170313</procdate>
+				<procdesc>Reclassified NLCD cartographic canopy cover layer, where 1 = Canopy (1-100), 2= No Data, 0 = No Canopy</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170313</procdate>
+				<procdesc>Used focal statistics 3x3 to create count of tree pixels near roads </procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170313</procdate>
+				<procdesc>Extracted canopy data using NAVTEQ buffer and extract by mask tool</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170323</procdate>
+				<procdesc>Extracted population near roads from the EnviroAtlas dasymetric population dataset using NAVTEQ buffer and extract by mask tool</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170420</procdate>
+				<procdesc>Ran ArcGIS "Con" tool to retrieve cells with 0 canopy cover and people &gt; 0 (Input: cartographic focal statistics.img) (Expression: "Value" &gt; 0) (Input raster if true: 0) (Input if false: daysmetric_buffer.img)</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170426</procdate>
+				<procdesc>Ran ArcGIS "zonal statistics as table" for population near roads without canopy buffer, sum by HUC12 </procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170505</metd>
+		<metfrd>20210505</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>NearRdNoBuff_Pop_2017</enttypl>
+				<enttypd>Sum of population near roads without tree buffer</enttypd>
+				<enttypds>U.S. EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RdBuffArea</attrlabl>
+				<attrdef>Total area of roadway buffer cells in meters^2 within HUC_12</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>133592400</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ESTPOP_no_buff</attrlabl>
+				<attrdef>Sum of estimated population near roads without tree buffer by HUC_12</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1311085</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>The near road exposure data was developed using the ESRI 2010 major roads data and the National Land Cover Dataset (NLCD) 2011. The NLCD data is available from https://www.mrlc.gov/nlcd2011.php. The population data was based on Census 2010 data that was spatially allocated into the EnviroAtlas dasymetric population dataset based on geographic and land use (NLCD 2011) data. Those pixels where population was expected but no tree cover was found between the population and the road were summarized by 12 digit HUCs. The data represents an estimate of where there is a demand for ecosystem services for trees to filter air pollution from nearby roads.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

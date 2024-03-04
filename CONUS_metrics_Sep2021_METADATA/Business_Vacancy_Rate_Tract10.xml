@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Business_Vacancy_Rate_Tract10</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\Business_Vacancy_Rate_Tract10" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Business_Vacancy_Rate_Tract10" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>Economy</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Human</themekey>
+				<themekey>Human Well-being</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+			<theme>
+				<themekt>User</themekt>
+				<themekey>Economy</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Human</themekey>
+				<themekey>Human Well-being</themekey>
+			</theme>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Business vacancy rate by Census Tract for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20161019</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>2010</begdate>
+					<enddate>2014</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset portrays the vacancy rate for business addresses for each Census Tract for each year from 2010-2014. Vacant buildings are included if they remained vacant for more than one year. Data were compiled from the United States Postal Service (USPS) Vacant Address Data.
+
+This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>This data layer records the business vacancy rate, which is calculated as the number of vacant business addresses as a percentage of the total number of business addresses for each Census tract. It can be used to study the extent and pattern of vacancies, both locally and for the conterminous US. In addition, researchers from government and private sectors can use this data layer to further investigate causes of local vacancy problems.  For instance, this data layer can be used with socioeconomic data to examine whether/how vacancy is associated with socioeconomic factors (e.g. household income level, age, and employment) (Nassauer and Raskin, 2014). Secondly, vacancy data can also be examined together with environmental factors (e.g. land use types, or green space) to see whether there is any interaction between the natural environment and vacancy phenomena. Thirdly, temporal changes of the vacancy rate can be investigated, and causes for temporal changes can also be analyzed. 
+
+The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://epa.gov/geospatial/policies.html</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>Obtained the United States Department of Housing and Urban Development (HUD)-aggregated USPS Vacant Address Data (https://www.huduser.gov/portal/datasets/usps.html) for the contiguous US.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>Vacancy data were analyzed from December 2010 to December 2014 and recorded based on the 2010 Census Tract map. For each year, business buildings that had been vacant for more than one year were included. The total number of vacant building units within a geographic unit (Census tract) was counted using ArcGIS 10.2 Table Join tool.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>The business vacancy rates were calculated using the following equation: Business Vacancy Rate = (Number of vacant business addresses / Total number of business addresses) * 100.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170324</procdate>
+				<procdesc>Calculated change in vacancy rates: BusVacChange10_14 = [Bus_2014_r] - [Bus_2010_r]</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170324</metd>
+		<metfrd>20210324</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Business_Vacancy_Rate</enttypl>
+				<enttypd>Rate of vacant business addresses for each year from 2010-2014 from the United States Postal Service (USPS) Vacant Address Data.</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>Bus_2010_r</attrlabl>
+				<attrdef>Rate of vacant business addresses for 2010 from the United States Postal Service (USPS) Vacant Address Data.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>No vacancy data</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No business addresses</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Rate of vacant business addresses for 2010</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Bus_2011_r</attrlabl>
+				<attrdef>Rate of vacant business addresses for 2011 from the United States Postal Service (USPS) Vacant Address Data.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>No vacancy data</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No business addresses</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Rate of vacant business addresses for 2011</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Bus_2012_r</attrlabl>
+				<attrdef>Rate of vacant business addresses for 2012 from the United States Postal Service (USPS) Vacant Address Data.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>No vacancy data</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No business addresses</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Rate of vacant business addresses for 2012</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Bus_2013_r</attrlabl>
+				<attrdef>Rate of vacant business addresses for 2013 from the United States Postal Service (USPS) Vacant Address Data.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>No vacancy data</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No business addresses</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Rate of vacant business addresses for 2013</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Bus_2014_r</attrlabl>
+				<attrdef>Rate of vacant business addresses for 2014 from the United States Postal Service (USPS) Vacant Address Data.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>No vacancy data</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No business addresses</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Rate of vacant business addresses for 2014</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Bus_r_10_14_Change</attrlabl>
+				<attrdef>Change in business vacancy rate 2010-2014, in percentage points. Calculated as 2014 rate - 2010 rate.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Null</edomv>
+						<edomvd>Vacancy data unavailable for 2010, 2014 or both.</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No business addresses in 2010, 2014 or both.</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Difference between 2014 and 2010 vacancy rates</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://enviroatlas.epa.gov/EnviroAtlas/DataFactSheets/index.html</eadetcit>
+			<eaover>The rate of vacant businesses was recorded as zero only if the number of vacant building units is zero. If vacancy information is missing, data were recorded as Null. If the number of total building units is zero, the vacancy rate was recorded as -9999.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

@@ -1,0 +1,45 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+    font-weight: 300;
+}
+
+h1 {
+    color: orange;
+    font-weight: 700;
+}
+
+#map {
+    height: 75vh;
+    border-top: 2px solid orange;
+}
+
+.leaflet-legend {
+    width: 240px;
+    height: 180px;
+    background-color: darkgray;
+    /* Legend is not shown on small screens. */
+    display: none;
+}
+
+/* Rule to toggle on/off legend. */
+.show-legend {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* When screen is 768px and wider. */
+@media screen and (min-width: 768px) {
+    #map {
+        border-top: none;
+    }
+
+    .leaflet-legend {
+        display: block;
+    }
+
+    #legend button {
+        display: none;
+    }
+}

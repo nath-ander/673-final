@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Income_Well_Being_BGRP</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\Income_Well_Being_BGRP" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Income_Well_Being_BGRP" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>Census Block Groups</themekey>
+				<themekey>Economy</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Human</themekey>
+				<themekey>Human Well-being</themekey>
+				<themekey>Society</themekey>
+			</theme>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Household income metrics related to emotional well-being by Census Block Group for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20170327</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>2008</begdate>
+					<enddate>2012</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset portrays the percentage of population within different household income ranges for each Census Block Group (CBG), a threshold estimated to be an optimal household income for emotional well-being, and the percentage of households with income below this threshold. Data were compiled from the Census ACS (American Community Survey) 5-year Summary Data (2008-2012).
+
+This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>This information can be used to evaluate the household economy and the related emotional well-being for Census Block Groups. 
+
+The Organisation for Economic Co-operation and Development (OECD) indicated that while money may not buy happiness, it is an important means to achieve higher living standards and thus greater well-being (OECD, 2012). Higher economic wealth may also improve access to quality education, health care and housing; income therefore influences people's mental and physical health (Zahran, 2005). While most research has focused on how income affects psychological well-being, De Neve and Oswald (2012) explored reverse causality and found that happier individuals are more likely to perform better financially.
+
+Household income has been found to be closely related to human well-being, which makes it an important factor in evaluating quality of life. Household income distribution presented in this data layer was calculated based on Census American Community Survey (ACS) 5-year Summary Data (2008-2012). It is based on the income groups originally provided in the Census ACS. To better present the how income might impact quality of life, we further classify the income into groups: below twice the poverty line ($30,000), above twice the poverty line and below $75,000, above $75,000 and below $200,000, and above $200,000. These groups focus on the relatively wealthy/middle class group and are a companion to the EnviroAtlas layers "Population with income below twice the poverty level" and "Percent population with income below twice the poverty level." The classification was based on publicly recognized studies focusing on the United States. Census and Beeghley (2004) suggested that the "rich" refers to household income in the top 5% of the nation, corresponding to an annual income of above $200,000. 
+Kahneman and Deaton (2010) found that life evaluation (the thoughts that people have about their life) and emotional well-being increase steadily with household income, but the increase in emotional well-being stopped when the annual household income reached $75,000. $75,000 was considered to represent the national average of the optimal household income for quality of life. A recent study suggested that the happiness threshold would be more appropriate if adjusted to the local cost of living, which takes into consideration the huge variation in cost of living across the nation (Short, 2014). Based on this research, we adjusted the $75,000 quality of life threshold using a county-level cost of living index, which was developed by the Council for Community and Economic Research (C2ER).  Then we calculated the percentage of the households whose annual household income is below the adjusted threshold. 
+
+The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://www.epa.gov/geospatial/geospatial-policies-and-standards</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>1. Used the Census Bureau's Summary File Retrieval Tool (http://www2.census.gov/acs2012_5yr/summaryfile/UserTools/SummaryFileDataRetrievalTool.zip) to download the Survey ACS dataset (5-year 2008-2012) Table B19001, Household Income In The Past 12 Months (In 2012 Inflation-Adjusted Dollars) for all available units of geography.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>2. IPython scripting tool was utilized to process the data</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>3. Added new fields and classified the ACS income ranges into four categories (see the overview section of the metadata for a list of the original ACS income range categories that were used to calculate this metric): Below twice the poverty line (categories 1-5); Above twice the poverty line and below $75,000 (categories 6-11); Above $75,000 and below $200,000 (categories 12-15); Above $200,000 (category 16).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>4. Calculated the percentage of households in each income category.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>5. Adjust the $75,000 happiness threshold to account for local cost of living with the formula $75,000 * county level cost of living index / 100. The cost of living index was developed by Council for Community and Economic Research (C2ER).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>2015</procdate>
+				<procdesc>6. Calculated the percentage of households in each block group that was below the adjusted threshold for quality of life (adjusted_QOL_threshold). See the overview section of the metadata for a list of the original ACS income range categories that were used to calculate this metric. For each CBG, if the adjusted threshold was between $60,000 - $74,999, then the under threshold groups include categories 1 to 10. If the adjusted threshold was between $75,000 - $99,999, then the under threshold groups include categories 1 to 11. If the adjusted threshold was between $100,000 - $125,000, the under threshold groups include categories 1 to 12. If the adjusted threshold was between $125,000 - 150,000, the under threshold groups include categories 1 to 13. Finally, the index information was joined to the attribute table of the community shapefile using CBG code as the join key.</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170327</metd>
+		<metfrd>20210327</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Income_Well_Being</enttypl>
+				<enttypd>Houshold income metrics related to quality of life.</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>bgrp</attrlabl>
+				<attrdef>Census block group identifier; a concatenation of 2010 Census state Federal Information Processing Standards (FIPS) code, county FIPS code, census tract code, and block group number</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2), INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4) and the tract code that appears in TRACTCE10 and the census block group number that appears in BLKGRPCE10</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_less_30k</attrlabl>
+				<attrdef>Percentage of households below twice the poverty line (making less than $30,000 in the past 12 months)</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>ACS data not available for this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Zero households in this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Percentage of households below twice the poverty line (making less than $30,000 in the past 12 months)</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_30k_75k</attrlabl>
+				<attrdef>Percentage of households with incomes above twice the poverty line ($30,000) and below $75,000 in the past 12 months</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>ACS data not available for this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Zero households in this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Percentage of households with incomes above twice the poverty line ($30,000) and below $75,000 in the past 12 months</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_75k_200k</attrlabl>
+				<attrdef>Percentage of households with incomes above $75,000 and below $200,000 in the past 12 months</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>ACS data not available for this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Zero households in this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Percentage of households with incomes above $75,000 and below $200,000 in the past 12 months</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_more_200</attrlabl>
+				<attrdef>Percentage of households with incomes above $200,000 in the past 12 months</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>ACS data not available for this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Zero households in this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Percentage of households with incomes above $200,000 in the past 12 months</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>QOL_index</attrlabl>
+				<attrdef>Percentage of households below the adjusted quality of life threshold (adjusted_QOL_threshold) for their county.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>ACS data not available for this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>Zero households in this block group</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>-8888</edomv>
+						<edomvd>No cost of living data available for this block group's county in the C2ER dataset</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>0-100</edomv>
+						<edomvd>Percentage of households below the adjusted quality of life threshold (adjusted_QOL_threshold) for their county.</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>adjusted_QOL_threshold</attrlabl>
+				<attrdef>Average optimal household income for quality of life (national average of $75,000 adjusted to reflect county cost of living).</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>NULL</edomv>
+						<edomvd>No C2ER cost of living data available for this block group's county</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+				<attrdomv>
+					<edom>
+						<edomv>62564-143125</edomv>
+						<edomvd>Average optimal household income for quality of life (approx. $75,000), adjusted to reflect county cost of living.</edomvd>
+						<edomvds>US EPA</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>A comprehensive list of metric creation steps is included in the Processing Steps.
+
+The following Census income categories were used to calculate the metrics: 
+
+1. Less than $10,000, 
+2. $10,000 to $14,999, 
+3. $15,000 to $19,999, 
+4. $20,000 to $24,999, 
+5. $25,000 to $29,999, 
+6. $30,000 to $34,999, 
+7. $35,000 to $39,999, 
+8. $40,000 to $44,999, 
+9. $45,000 to $49,999, 
+10. $50,000 to $59,999, 
+11. $60,000 to $74,999, 
+12. $75,000 to $99,999, 
+13. $100,000 to $124,999, 
+14. $125,000 to $149,999, 
+15. $150,000 to $199,000, 
+16. $200,000 or more.
+
+
+Citations:
+Beeghley, L. (2004). Structure Of Social Stratification In The United States, Publisher: Allyn &amp; Bacon.
+
+De Neve, J. E., &amp; Oswald, A. J. (2012). Estimating the influence of life satisfaction and positive affect on later income using sibling fixed effects. Proceedings of the National Academy of Sciences, 109(49), 19953-19958.
+
+Kahneman, D., &amp; Deaton, A. (2010). High income improves evaluation of life but not emotional well-being. Proceedings of the National Academy of Sciences, 107(38), 16489-16493. 
+
+OECD. (2012). OECD Better Life Index: Income. Accessed from: http://www.oecdbetterlifeindex.org/topics/income/
+
+Short D. (2014) Happiness Revisited: A Household Income of $75K? Available from http://www.advisorperspectives.com/dshort/commentaries/Happiness-Benchmark.php#ixzz37eM5xPxF
+
+Zahran, H. S., Kobau, R., Moriarty, D. G., Zack, M. M., Holt, J., Donehoo, R., &amp; Centers for Disease Control and Prevention (CDC). (2005). Health-related quality of life surveillance-United States, 1993-2002. MMWR Surveill Summ, 54(4), 1-35.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\CERA_site_density</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\CERA_site_density" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\CERA_site_density" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Land</themekey>
+				<themekey>Management</themekey>
+				<themekey>Potential for Change - Ecosystem Services</themekey>
+				<themekey>Remediation</themekey>
+				<themekey>Sites</themekey>
+				<themekey>Structure</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Frequency and Density of Candidate Areas for Ecological Restoration by 12-digit HUC for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20170324</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<sngdate>
+					<caldate>2011</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset shows the number and density of candidate areas for ecological restoration in each 12-digit HUC. Ecological restoration may become a more prominent means of environmental conservation in the future, and landscape context and connectivity are important emerging principles in ecological restoration science. We used morphological spatial pattern analysis (MSPA) to identify candidate restoration areas based on their proximity to large vegetated regions.  This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>The candidate ecological restoration areas database can be used by interested land managers to identify sites for ecological restoration. 
+
+Candidate ecological restoration areas relate to three EnviroAtlas benefit categories: 1) biodiversity conservation, 2) clean and plentiful water, and 3) recreation, culture and aesthetics. Restoration (e.g., revegetation) of candidate sites would create corridors connecting surrounding vegetated regions. Corridors have been shown to have positive benefits for biodiversity conservation. Because of the way in which we processed the land cover with the MSPA software, agriculture and urban are the predominant land uses in the candidate ecological restoration areas. Restoration of candidate sites with streams has the potential to promote clean and plentiful water because the potential natural streamside vegetation throughout the continental United States is forest, wetland, grassland and shrubland, not urban and agriculture. Creation of corridors connecting larger vegetated regions may also promote increased recreational use in some cases. 
+
+The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://www.epa.gov/geospatial/geospatial-policies-and-standards</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>1) Re-class National Land Cover Database (NLCD) 2011 land cover into foreground and background (foreground = forest, shrubland, grassland, wetland) (background = water, urban, agriculture, barren)</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>2) Run MSPA (forest.jrc.ec.europa.eu) on NLCD map re-classed into foreground and background. MSPA edge-width = 1 (pixel), connectivity=8, transition=0, intext=0 </procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>3) Extract MSPA branch class from MSPA output map</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>4) Grow (expand) extracted MSPA branches by two pixels</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>5) Regionalize (i.e., regiongroup) extracted and expanded MSPA branch map</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>6) Re-class MSPA output map, setting all classes to 1 except islet; islet set to null</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>7) Regionalize re-classed MSPA map</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>8) Combine regionalized &amp; re-classed MSPA map and regionalized and expanded MSPA branch map</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>9) Run frequency analysis on output of combine using ID from regionalized and expanded MSPA branch map as frequency item</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>10) Add item "frq" to regionalized and expanded MSPA branch map</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>11) Relate frequency analysis table to output from combine and calc "frq" = "FREQUENCY</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>12) Extract expanded and regiongrouped branches with "frq" &gt;= 2 from step 8 output</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20160426</procdate>
+				<procdesc>13) Convert output from step 12 to vector format </procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170307</procdate>
+				<procdesc>14) Calculated density (candidate areas per square kilometer). Density = ( WSfrq / shape_area) * 1,000,000.</procdesc>
+			</procstep>
+			<srcinfo>
+				<typesrc>online</typesrc>
+				<srccitea>NLCD 2011</srccitea>
+				<srccontr>Land cover</srccontr>
+				<srctime>
+					<srccurr>publication date</srccurr>
+					<timeinfo>
+						<sngdate>
+							<caldate>2011</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccite>
+					<citeinfo>
+						<origin>MultiResolution Land Characteristics Consortium</origin>
+						<title>National Land Cover Database</title>
+						<edition>2011</edition>
+						<geoform>raster digital data</geoform>
+						<pubdate>20141010</pubdate>
+						<pubinfo>
+							<publish>U.S. Geological Survey</publish>
+							<pubplace>Sioux Falls, SD</pubplace>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+			</srcinfo>
+			<srcinfo>
+				<typesrc>computer program</typesrc>
+				<srccitea>MSPA</srccitea>
+				<srccontr>Software used for morphological spatial pattern analysis</srccontr>
+				<srctime>
+					<srccurr>publication date</srccurr>
+					<timeinfo>
+						<sngdate>
+							<caldate>2014</caldate>
+						</sngdate>
+					</timeinfo>
+				</srctime>
+				<srccite>
+					<citeinfo>
+						<origin>Joint Research Commission</origin>
+						<title>Morphological Spatial Pattern Analysis</title>
+						<edition>2.4</edition>
+						<pubdate>2014</pubdate>
+						<pubinfo>
+							<publish>Joint Research Commission</publish>
+							<pubplace>Ispra, Italy</pubplace>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+			</srcinfo>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170324</metd>
+		<metfrd>20210324</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>CERA_site_density</enttypl>
+				<enttypd>Candidate areas for ecological restoration</enttypd>
+				<enttypds>EPA-ORD</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WSfrq</attrlabl>
+				<attrdef>Total number of candidate areas by 12-digit HUC</attrdef>
+				<attrdefs>EPA-ORD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>459</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CERA_per_km2</attrlabl>
+				<attrdef>The number of candidate areas per square kilometer by 12-digit HUC</attrdef>
+				<attrdefs>EPA-ORD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>28</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>This dataset shows the number of candidate areas for ecological restoration by 12-digit HUC, and the density of sites expressed as the number of candidate areas per square kilometer. 
+
+			We used land cover as input into morphological spatial pattern analysis (MSPA) to identify close but geographically disjunct vegetated regions. The close but geographically disjunct vegetated regions were used to identify candidate ecological restoration areas.
+
+			We re-classed the NLCD 2011 land cover map into foreground and background for MSPA processing. NLCD 2011 classes forest, wetland, shrubland and grassland were re-coded as foreground, and water, urban, barren, and agriculture were re-coded as background.  MSPA classifies foreground into core (interior), edge, bridge (corridor), loop, branch ("dead end" corridor), perforation (hole), and islet (patch), and was regionalized. The MSPA branch class was extracted, expanded by two pixels, and regionalized. The regionalized and expanded branches and regionalized MSPA were overlaid, and candidate restoration areas were identified as expanded and regionalized branches that overlaid at least 2 regionalized MSPA regions. The output was converted to vector format, and common GIS overlay routines were used to develop the attribute database
+
+			A comprehensive list of metric creation steps is included in the Processing Steps.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

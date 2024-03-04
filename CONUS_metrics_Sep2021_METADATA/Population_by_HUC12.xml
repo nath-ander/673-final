@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Population_by_HUC12</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\Population_by_HUC12" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\Population_by_HUC12" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Demand for Ecosystem Services</themekey>
+				<themekey>Demographics</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Human</themekey>
+				<themekey>Modeling</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Dasymetric Population by 12-Digit HUC for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20170517</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Ground condition</current>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>2010</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2011</caldate>
+					</sngdate>
+				</mdattim>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None.</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset estimates population by 12-digit HUC. It is based on the EnviroAtlas dasymetric dataset, which intelligently reallocates 2010 population from census blocks to 30 meter pixels based on land cover and slope. The dasymetric data was aggregated by HUC_12 boundary to summarize population by watershed. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>This dataset can be used to learn about the beneficiaries of the ecosystem services represented in the Atlas. It can be used to identify areas where there might be greater demand for ecosystem services, or study imbalances between ecosystem services and population. The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+			<supplinf>This metric was calculated using the EnviroAtlas Dasymetric raster version from 2/8/2016.</supplinf>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://www.epa.gov/geospatial/geospatial-policies-and-standards</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>201510</procdate>
+				<procdesc>Reclassify NLCD 2011 (10-10-2014 version) land cover - 11, 12, 31 and 95 (nodata), 21 (21), 22 (22), 23 (23), 24 (24), 41, 42, 43, 52, 71, 81, 82 , 90 (1).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201510</procdate>
+				<procdesc>Use 3x3 majority filter to replace class 21 with class 1 to eliminate some rural roads.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201510</procdate>
+				<procdesc>Mask slopes &gt; 25% using 30 meter NED.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201510</procdate>
+				<procdesc>Use the dasymetric tools for each state. Washington, D.C. was combined with Maryland to ensure adequate samples. Rhode Island was combined with Massachusetts for the same reason. Density for class 1 was set to 0.001 to force most population to urban classes (21-24).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201510</procdate>
+				<procdesc>Merge results into one raster.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201511</procdate>
+				<procdesc>Reclassify all NoData to 0 to fill "holes."</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201511</procdate>
+				<procdesc>Use the Census 1:500,000 US Counties to create a US Coastline.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201511</procdate>
+				<procdesc>For Dasymetric pixels outside the coastline, convert 0's back to Nulls. For dasymetric pixels inside the coastline, maintain 0's as 0. </procdesc>
+			</procstep>
+			<procstep>
+				<procdate>201511</procdate>
+				<procdesc>Convert to TIFF for use in EnviroAtlas.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170517</procdate>
+				<procdesc>Calculate Sum of population by HUC_12 using "Zonal Statistics as Table" tool in ArcGIS</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170517</metd>
+		<metfrd>20210517</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Population_by_HUC12</enttypl>
+				<enttypd>Dasymetric Population by HUC_12 boundary</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HUC12_Pop</attrlabl>
+				<attrdef>Sum of population within HUC_12</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>3135572.82024000000</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>The US Census Bureau collects population information through the decennial census. Though this information is collected from individual residents, the US Census Bureau aggregates this data into census blocks. Census blocks are statistical areas bounded by both visible features such as roads and streams, as well as invisible boundaries such as county or state limits. This aggregation generally assumes that the population is distributed uniformly across each census block. While this assumption is practical for the purposes of the census, it makes it very difficult to determine how many individuals within a census block live near roads, in floodplains, or face other potential exposures. Traditionally, maps from census data that calculate distance use the centroid of the census block as the starting point. In areas that have large census blocks, this may introduce errors when determining walking or driving distances for individuals. Dasymetric mapping is a geospatial technique that is used to more accurately distribute data assigned to arbitrary boundaries, such as census blocks, using additional information such as land cover types and uses. Using the National Land Cover Dataset (NLCD), the EnviroAtlas dasymetric population map assumes that individuals will not live in areas that are classified as open water, ice/snow, or wetlands. Areas with slopes greater than 25 percent were also considered uninhabitable. Vegetated and developed areas are considered habitable and are assigned an estimated population density based on their respective land cover class. EnviroAtlas uses this technique to create a more informed delineation of population estimates. These data provide the foundation for estimating walking distances, viewsheds, and exposure potential in many maps contained in EnviroAtlas. This map applies a dasymetric mapping technique to the 2010 US Census population data using land cover classes from the 2011 National Land Cover Dataset (10-10-2014 version). This data was then summarized by HUC12 unit boundaries. The NLCD classes were divided into five categories based on habitability. The following explains how the NLCD was reclassified, using this format: "Dasymetric Category: NLCD class (code)." *Non-habitable: Open water (11), perennial ice/snow (12), emergent herbaceous wetlands (95). *Habitable 1: Deciduous forest (41), evergreen forest (42), mixed forest (43), shrub/scrub (52), grassland/herbaceous (71), pasture/hay (81), cultivated crops (82), woody wetlands (90). *Habitable 2: Developed, open space (21). *Habitable 3: Developed, low intensity (22). *Habitable 4: Developed, medium intensity (23). *Habitable 5: Developed, high intensity (24). The NLCD data set does not explicitly identify roads and this can create issues in assigning population estimates to individual pixels, particularly in rural areas with large census blocks. Specifically, people do not reside in the middle of roads but rather along them. The EnviroAtlas method dealt with the issue by assuming that NLCD class 21 captures these rural roads. To this end, the NLCD class 21 was thinned using a 3x3 majority filter. Only NLCD class 21 was allowed to be changed, and only to the habitable 1 class. This allows for the removal of road pixels in forested or agricultural areas, but prevented changes from class 21 to another developed class in urban areas. The majority filters replace the value of a cell or pixel based on the values of the majority of their contiguous cells. The NLCD was then classified into non-habitable and five habitable classes discussed above. In addition, all slopes over 25% (calculated using NED) were masked as non-habitable. Small, narrow, and oddly shaped census blocks did not align well with the 2011 NLCD raster data - meaning that a centroid pixel from the NLCD could not be identified for these blocks. To deal with this, these small, narrow, and oddly shaped blocks were absorbed into neighboring census block polygons. The populations of the merged census blocks were added together and then assigned to the pixel level as a single block. Accounting for these small, narrow, and oddly shaped census blocks in this way prevented the loss of 100,000 people and 840 Km2 land area from the final data product. The final reclassified and masked land cover was then used with the 2010 census block boundaries and population counts as inputs to a series of python script tools in ArcGIS. Each habitable class required ten "pure" blocks of at least ten pixels, e.g. ten blocks of 100% habitable 1, ten blocks of 100% habitable 2, etc. Washington D.C. and Rhode Island did not have sufficient samples and were combined with Maryland and Massachusetts, respectively. Before final population allocation, the density for habitable 1 was set to 0.001 to force most population into developed land cover pixels. Final allocation was performed using: Equation 1: f_h2 = (a_h2 x d_h2)/(a_h1 x d_h1 + a_h2 xd_h2 + a_h3 x d_h3 + a_h4 x d_h4 + a_h5 x d_h5 ) Where f_h2 is the fraction of total population that is assigned to the habitable 2 pixels in the census block; d_h2, d_h3, d_h4, and d_h5 are the population densities for habitable classes 2 through 5 while a_h2, a_h3, a_h4, and a_h5 are the area percentages for habitable classes 2 through 5. f_h3, f_h4, f_h5 are calculated similarly. The Dasymetric Toolbox for ArcGIS v10 used to create these data can be downloaded from https://www.epa.gov/enviroatlas/dasymetric-toolbox.</eaover>
+		</overview>
+	</eainfo>
+</metadata>

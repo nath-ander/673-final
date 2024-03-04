@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<PublishedDocID>{5141d256-271a-4f82-8b06-29fe0a06103b}</PublishedDocID>
+	</Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>12-digit HUCs</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Surface Water</themekey>
+				<themekey>Transportation</themekey>
+				<themekey>Water</themekey>
+			</theme>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Road Density Metrics by 12-digit HUC for the Conterminous United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20170614</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Publication date</current>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>2011</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20170614</caldate>
+					</sngdate>
+				</mdattim>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas dataset describes several metrics related to road-stream crossings and roads near streams at the watershed scale. According to EPA report 600/R-97/130, roads can affect stream water in many ways and roads in close proximity to streams have the most potential for adverse effects on stream water quality. Since roads have an impervious surface, and ditches are built to channel water from roads into streams, the rate of water runoff is higher where there are more roads. Not only does this lead to increased scour of the river channel and stream banks, but it can also be a preferential pathway for runoff associated with road salting or routine maintenance which, along with other spills on the roadway, can lead to overall reductions in water quality. 
+
+			This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>The purpose of this dataset is to provide metrics to allow for the assessment of watershed-scale road density, stream density, road length, stream length, total number of road-stream crossings, calculated average number of road-stream crossings per Km, and the total length of road within a 45 meter distance to nearby streams at a divided by the total length of stream in the reporting unit. The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://epa.gov/geospatial/policies.html</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20110603</procdate>
+				<procdesc>Selected NHDPlusV2 Flowlines where FTYPE = 460 (stream/river), 334 (connector), or 558 (artificial path). Projected outputs to Albers.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>Modify original 2011 NAVTEQ road lines data. Make a new selection for line segments that have FERRY TYPE = H (neither rail or boat ferry). Remove from the selection all line segments with AR_AUTO = 'N' AND AR_BUS = 'N' AND AR_TAXIS = 'N' AND AR_CARPOOL = 'N' AND AR_TRUCKS = 'N' AND AR_DELIV = 'N' AND AR_EMERVEH = 'N' AND AR_MOTOR = 'N' (any road segment with any type of motor vehicle allowed on it is retained).</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>Project NAVTEQ data to Albers.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>Clip road lines by HUC4 region for batch processing.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>Convert road lines from single part to multipart and use arcpy scripts to merge divided roads where DIR_Travel = B with search distance of 30m.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>Dissolve merged road files, merge clipped files back together for CONUS coverage.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>Calculate Stream-road intersections (STXRD) and Roads near streams (RNS) values using ATtILA road density metrics at buffered distance of 45m. Report by unit HUC12, using merged roads and clipped NHD flowlines. *</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>*Additional notes:  In instances where processing of regions with greater number of features failed, sections were subdivided and lines where clipped to reduce the number of input features and allow ATtILA to process metrics without crashing.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170511</procdate>
+				<procdesc>Merge Output tables to one file by STXRD and RNS metrics respectively.</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170728</metd>
+		<metfrd>20210728</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Road Density Metrics</enttypl>
+				<enttypd>Definitions come from existing ATtILA documentation and are based on internal calculations from the road density metrics tool.</enttypd>
+				<enttypds>US EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdef>Twelve Digit Hydrologic Unit Code. This field provides a unique 12-digit code for each subwatershed. Numbers were assigned in an upstream to downstream fashion. Where no downstream/upstream relationship could be determined, numbers were assigned in a clockwise fashion.</attrdef>
+				<attrdefs>Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A; Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3.</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>010000000000</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RDKM</attrlabl>
+				<attrdef>The total length of road feature lines in km within the 12-digit HUC.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00000000000</rdommin>
+						<rdommax>4186.74189780000</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RDDENS</attrlabl>
+				<attrdef>The density of Road feature lines in km/km^2 within the 12-digit HUC.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00000000000</rdommin>
+						<rdommax>17.82809003030</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STRMKM_MedRes</attrlabl>
+				<attrdef>The total length of stream feature lines in km within the reporting unit. Note: This metric was calculated using medium resolution NHDPlusV2 stream features. An alternative stream length metric using the high-resolution NHD stream features can be found in the EnviroAtlas Impaired Waters dataset.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00000000000</rdommin>
+						<rdommax>1470.76105995000</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STRMDENS_MedRes</attrlabl>
+				<attrdef>The density of stream feature lines in km/km^2 within the reporting unit. Note: This metric was calculated using medium resolution NHDPlusV2 stream features. An alternative stream density metric using the high-resolution NHD stream features can be found in the EnviroAtlas Impaired Waters dataset.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00000000000</rdommin>
+						<rdommax>3.17356964259</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>XCNT</attrlabl>
+				<attrdef>The count of intersections (crossings) between the road feature lines and the stream feature lines within the reporting unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>744</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STXRD</attrlabl>
+				<attrdef>The density of stream-road crossings per stream km within the reporting unit.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00000000000</rdommin>
+						<rdommax>25.86635921350</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RNS45</attrlabl>
+				<attrdef>The proportion of roads near streams within a 45 m buffer at the watershed scale, calculated as the total length of roads (km) within 45 meters of a stream, divided by the total length of stream (km) in the 12-digit HUC.</attrdef>
+				<attrdefs>US EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>16.65</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>These metrics were generated using the ATtILA toolbox (https://www.epa.gov/enviroatlas/attila-toolbox), an ArcMap tool for calculating commonly used landscape metrics, in conjunction with the 2011 NAVTEQ road lines data, and the USGS National Hydrography Dataset Plus Version 2 (NHDPlusV2) medium resolution (1:100,000 or higher) stream lines.
+
+			Metrics for streams crossing roads were calculated based on point intersections between the NAVTEQ roads and NHD streamlines, as well as individual line geometries. Metrics for roads near streams were calculated based on a 45m search buffer from the NAVTEQ roads lines to identify any nearby NHD streamlines. In some instances, such as in the case of divided highways, split roads were combined into single lines to prevent double counting through the ATtILA road density metrics. For more information on the metric calculation, please see the ATtILA user's manual (https://www.epa.gov/sites/production/files/2015-06/documents/user_guide.pdf). A comprehensive list of metric creation steps is included in the Processing Steps. </eaover>
+		</overview>
+	</eainfo>
+</metadata>

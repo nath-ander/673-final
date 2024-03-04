@@ -1,0 +1,504 @@
+<?xml version="1.0"?>
+<metadata>
+	<Esri>
+		<CreaDate>20190325</CreaDate><CreaTime>12074800</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\FSA_Farm_Rents_County10</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="D:\Public\Data\projects\EnviroAtlas_Public\FGDBs4EDG\CONUS\CONUS_metrics_October2017_METADATA\CONUS_metrics_October2017_METADATA\TableMetadata\FSA_Farm_Rents_County10" dest="\\V18OVHRTTF760\D$\Public\Data\projects\EnviroAtlas_Public\EDG_Download_STG\National\CONUS_metrics_Mar2019_METADATA\FSA_Farm_Rents_County10" date="20190325" time="12074800"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EPA GIS Keyword Thesaurus</themekt>
+				<themekey>Ecosystem</themekey>
+				<themekey>Environment</themekey>
+			</theme>
+			<theme>
+				<themekt>EnviroAtlas</themekt>
+				<themekey>Agriculture</themekey>
+				<themekey>Economy</themekey>
+				<themekey>Ecosystem Services</themekey>
+				<themekey>EnviroAtlas</themekey>
+				<themekey>Environment</themekey>
+				<themekey>Environmental Atlas</themekey>
+				<themekey>Human</themekey>
+				<themekey>Land</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Delaware</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>United States</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Washington DC</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+			</place>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency (US EPA)</origin>
+				<title>EnviroAtlas - Farm Service Land Rental Rates by County for the United States</title>
+				<pubinfo>
+					<publish>U.S. EPA Office of Research &amp; Development (ORD) - National Exposure Research Laboratory (NERL)</publish>
+					<pubplace>Research Triangle Park, NC</pubplace>
+				</pubinfo>
+				<pubdate>20170207</pubdate>
+				<onlink>https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/National</onlink>
+				<onlink>https://enviroatlas.epa.gov/arcgis/rest/services/National/National2016_master/MapServer</onlink>
+				<onlink>https://www.epa.gov/enviroatlas/enviroatlas-data</onlink>
+				<onlink>https://www.epa.gov/enviroatlas</onlink>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>Publication date</current>
+			<timeinfo>
+				<rngdates>
+					<begdate>20170104</begdate>
+					<enddate>20170106</enddate>
+				</rngdates>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-128.02839229</westbc>
+				<eastbc>-65.20336449</eastbc>
+				<northbc>51.6773602</northbc>
+				<southbc>22.7348894</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None.</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+		<descript>
+			<abstract>This EnviroAtlas data set depicts estimates for mean cash rent paid for land by farmers, sorted by county for irrigated cropland, non-irrigated cropland, and pasture by for most of the conterminous US. This data comes from national surveys which includes approximately 240,000 farms and applies to all crops. According to the USDA (U.S. Department of Agriculture) National Agricultural Statistics Service (NASS), these surveys do not include land rented for a share of the crop, on a fee per head, per pound of gain, by animal unit month (AUM), rented free of charge, or land that includes buildings such as barns.  For each land use category with positive acres, respondents are given the option of reporting rent per acre or total dollars paid. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).</abstract>
+			<purpose>The purpose of this data set is to identify the mean cash rental rates for farmland in each county for available years on record. This information can be used in making decisions regarding renting and leasing farmland.
+
+The overall goal of EnviroAtlas is to employ and develop the best available science to map indicators of ecosystem services production, demand, and drivers for the nation.</purpose>
+			<supplinf>Note: To properly display data,  should select Quantities -&gt; "Graduated colors" and changed the first class to be "0 - 0" with the corresponding label of "No Data"</supplinf>
+		</descript>
+		<secinfo>
+			<secsys>https://project-open-data.github.io/schema/#accessLevel</secsys>
+			<secclass>public</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntperp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<dataqual>
+		<logic>Tests for integrity have not been performed.</logic>
+		<complete>Features represented have not been tested for completeness</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Data were collected using methods that have unknown accuracy (EPA National Geospatial Data Policy [NGDP] Accuracy Tier 10). For more information, please see EPA's NGDP at https://www.epa.gov/geospatial/geospatial-policies-and-standards</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>Download original Farm Service Agency (FSA) Cash Rents Survey dataset from NASS website.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>Remove non-unique or duplicate fields from .csv</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>Rename fields, remove spaces and characters to allow .csv to be read into ArcMap.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>Split entries by "County_ANSI" and  "OTHER (COMBINED) COUNTIES" with and w/o numerical values to separate files (with = GEOID_Counties) (without = Combined_Counties) </procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>Convert GEOID_Counties county field to proper case</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>For GEOID_Counties, use find and replace County names to match Tiger 2010 shapefile fields</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>In ArcMap, change projection of 2010 Tiger counties to USA_Contiguous_Albers_Equal_Area_Conic_USGS_version.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>In ArcMap, Add Field (Long), name GEOID,  Field Calculator Int([GEOID 10]) to get integer matching field</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>Export dBase table from ArcMap, match with GEOID_Counties in new .csv using special sort (Match State to STATE_NAME, and County to NAME10, return GEOID10)</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>In ArcMap, join GEOID_Counties to shapefile, create separate shapefile  and dBase table for counties without matching entries.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>Match remaining Combined_Counties according to Ag_District Code with dBase of missing entries using NASS Agricultural District Maps. Leave out independent VA cities, Washington D.C. and Rhode Island which do not have Combined_Counties data.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170104</procdate>
+				<procdesc>For each .csv, format cells for python processing (replace blank cells with 0, format numbers to remove commas)</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170105</procdate>
+				<procdesc>Create output file and run python script FSA_sorting_script.py</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170105</procdate>
+				<procdesc>Create new .csv from output with land use statistics fields and GEOID, find and remove (replace) brackets, commas and apostrophes to format for secondary python processing.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170105</procdate>
+				<procdesc>Execute secondary python script FSA_recalculation.py, and replace old calculation results (incorrect) with new calculations.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170105</procdate>
+				<procdesc>Replace no value cells for all calculations except RANGE with 0 so they can be displayed in ArcMap.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170106</procdate>
+				<procdesc>Recombine both Combined_Counties and GEOID_Counties into one .csv such that every entry has an associated GEOID.</procdesc>
+			</procstep>
+			<procstep>
+				<procdate>20170106</procdate>
+				<procdesc>Add back in independent VA cities, Washington D.C. and Rhode Island with their GEOIDs, leaving calculation fields blank so that all entries will properly join back with ArcMap Tiger Census data.</procdesc>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<plandu>meters</plandu>
+					<coordrep>
+						<absres>0.000001</absres>
+						<ordres>0.000001</ordres>
+					</coordrep>
+				</planci>
+				<mapproj>
+					<mapprojn>Albers Conical Equal Area</mapprojn>
+					<albers>
+						<stdparll>29.500000</stdparll>
+						<stdparll>45.500000</stdparll>
+						<longcm>-96.000000</longcm>
+						<latprjo>23.000000</latprjo>
+						<feast>0.000000</feast>
+						<fnorth>0.000000</fnorth>
+					</albers>
+				</mapproj>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>https://edg.epa.gov/EPA_Data_License.html</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metd>20170419</metd>
+		<metfrd>20210419</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas</cntorg>
+					<cntper>EnviroAtlas Coordinator</cntper>
+				</cntorgp>
+				<cntpos>Geospatial Data Owner</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>109 T.W. Alexander Drive</address>
+					<city>Research Triangle Park</city>
+					<state>NC</state>
+					<postal>27709</postal>
+				</cntaddr>
+				<cntvoice>(919) 541-3832</cntvoice>
+				<cntemail>EnviroAtlas@epa.gov</cntemail>
+				<cntinst>https://www.epa.gov/enviroatlas</cntinst>
+			</cntinfo>
+		</metc>
+	</metainfo>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>FSA_Farm_Rents</enttypl>
+				<enttypd>Rents paid by farmers for irrigated cropland, non-irrigated cropland, and pasture.</enttypd>
+				<enttypds>U.S. EPA</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>GEOID_CO</attrlabl>
+				<attrdef>County identifier; a concatenation of 2010 Census state FIPS code and county FIPS code</attrdef>
+				<attrdefs>U.S. Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2), INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4)</codesetn>
+						<codesets>U.S. Census Bureau</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Number_Years_On_Record</attrlabl>
+				<attrdef>Number of years of record for the county in the FSA land rents dataset</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>8</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Oldest_Year</attrlabl>
+				<attrdef>Oldest year on record for county data. Null = data not available (No published survey values available from NASS for irrigated land; no data available, or not enough survey responses to make an estimate).</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2008</rdommin>
+						<rdommax>2016</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Newest_Year</attrlabl>
+				<attrdef>Most recent year on record for county data. Null = data not available (No published survey values available from NASS for irrigated cropland; no data available, or not enough survey responses to make an estimate).</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2009</rdommin>
+						<rdommax>2016</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>I_max</attrlabl>
+				<attrdef>Maximum cost for irrigated land on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for irrigated land, either because there was no irrigated cropland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>24.5</rdommin>
+						<rdommax>2510</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>I_min</attrlabl>
+				<attrdef>Minimum cost for irrigated land on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for irrigated land, either because there was no irrigated cropland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>16</rdommin>
+						<rdommax>1940</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>I_mean</attrlabl>
+				<attrdef>Mean cost for Irrigated land on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for irrigated land, either because there was no irrigated cropland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>24.17</rdommin>
+						<rdommax>2213.75</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Irrigation_Range</attrlabl>
+				<attrdef>Difference between maximum and minimum cost on record of irrigated land. Nulls indicate that no published survey values were available from NASS for irrigated land, either because there was no irrigated cropland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>887</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NI_max</attrlabl>
+				<attrdef>Maximum cost for Non-Irrigated land on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for non-irrigated land, either because there was no non-irrigated cropland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>5</rdommin>
+						<rdommax>385</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NI_min</attrlabl>
+				<attrdef>Minimum cost for Non-Irrigated land on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for non-irrigated land, either because there was no non-irrigated cropland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>4.5</rdommin>
+						<rdommax>223</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NI_mean</attrlabl>
+				<attrdef>Mean cost for Non-Irrigated land on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for non-irrigated land, either because there was no non-irrigated cropland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>5</rdommin>
+						<rdommax>278.38</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Non_Irrigation_Range</attrlabl>
+				<attrdef>Difference between maximum and minimum cost on record of Non-Irrigated land. Nulls indicate that no published survey values were available from NASS for non-irrigated land, either because there was no non-irrigated farmland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>294</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_max</attrlabl>
+				<attrdef>Maximum cost for Pastureland on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for pastureland, either because there was no pastureland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.7</rdommin>
+						<rdommax>114</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_min</attrlabl>
+				<attrdef>Minimum cost for Pastureland on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for pastureland, either because there was no pastureland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.3</rdommin>
+						<rdommax>103</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>P_mean</attrlabl>
+				<attrdef>Mean cost for Pastureland on record by county, measured in $/Acre. Nulls indicate that no published survey values were available from NASS for pastureland, either because there was no pastureland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.6</rdommin>
+						<rdommax>103</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Pastureland_Range</attrlabl>
+				<attrdef>Difference between maximum and minimum cost on record of Pastureland. Nulls indicate that no published survey values were available from NASS for pastureland, either because there was no pastureland on a large scale, no data was available, or there were not enough survey responses to make an estimate.</attrdef>
+				<attrdefs>U.S. EPA</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>67.5</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<overview>
+			<eadetcit>https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets</eadetcit>
+			<eaover>This dataset contains mean, maximum, and minimum rents paid by farmers for irrigated cropland, non-irrigated cropland, and pasture. It is based on FSA survey data.
+
+A comprehensive list of metric creation steps is included in the Processing Steps. For more information about EnviroAtlas data, go to https://enviroatlas.epa.gov/EnviroAtlas/DataFactSheets/index.html</eaover>
+		</overview>
+	</eainfo>
+</metadata>
